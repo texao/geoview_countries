@@ -874,7 +874,16 @@
         "FCLASS_NL": "Unrecognized",
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "El Aaiún",
+        "languages": "Berber",
+        "currency_name": "Algerian dinar",
+        "currency_symbol": "دج",
+        "name_updated": "Western Sahara",
+        "flag": "🇪🇭",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -17.063423,
@@ -10856,7 +10865,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kinshasa",
+        "languages": "French",
+        "currency_name": "Congolese franc",
+        "currency_symbol": "FC",
+        "name_updated": "DR Congo",
+        "flag": "🇨🇩",
+        "continent_updated": "Africa"
       },
       "bbox": [
         12.182337,
@@ -13449,7 +13467,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Santo Domingo",
+        "languages": "Spanish",
+        "currency_name": "Dominican peso",
+        "currency_symbol": "$",
+        "name_updated": "Dominican Republic",
+        "flag": "🇩🇴",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -71.945112,
@@ -16777,7 +16804,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Stanley",
+        "languages": "English",
+        "currency_name": "Falkland Islands pound",
+        "currency_symbol": "£",
+        "name_updated": "Falkland Islands",
+        "flag": "🇫🇰",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -61.2,
@@ -18287,7 +18323,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Port-aux-Français",
+        "languages": "French",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "French Southern and Antarctic Lands",
+        "flag": "🇹🇫",
+        "continent_updated": "Antarctic"
       },
       "bbox": [
         68.72,
@@ -33029,7 +33074,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Yamoussoukro",
+        "languages": "French",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Ivory Coast",
+        "flag": "🇨🇮",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -8.60288,
@@ -35082,7 +35136,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bangui",
+        "languages": "French",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Central African Republic",
+        "flag": "🇨🇫",
+        "continent_updated": "Africa"
       },
       "bbox": [
         14.459407,
@@ -36226,7 +36289,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Malabo",
+        "languages": "French",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Equatorial Guinea",
+        "flag": "🇬🇶",
+        "continent_updated": "Africa"
       },
       "bbox": [
         9.305613,
@@ -55608,7 +55680,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Ankara",
+        "languages": "Turkish",
+        "currency_name": "Turkish lira",
+        "currency_symbol": "₺",
+        "name_updated": "Türkiye",
+        "flag": "🇹🇷",
+        "continent_updated": "Asia"
       },
       "bbox": [
         26.043351,
@@ -58982,7 +59063,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Honiara",
+        "languages": "English",
+        "currency_name": "Solomon Islands dollar",
+        "currency_symbol": "$",
+        "name_updated": "Solomon Islands",
+        "flag": "🇸🇧",
+        "continent_updated": "Oceania"
       },
       "bbox": [
         156.491358,
@@ -75540,7 +75630,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Sarajevo",
+        "languages": "Bosnian",
+        "currency_name": "Bosnia and Herzegovina convertible mark",
+        "currency_symbol": "KM",
+        "name_updated": "Bosnia and Herzegovina",
+        "flag": "🇧🇦",
+        "continent_updated": "Europe"
       },
       "bbox": [
         15.750026,
@@ -77245,7 +77344,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Juba",
+        "languages": "English",
+        "currency_name": "South Sudanese pound",
+        "currency_symbol": "£",
+        "name_updated": "South Sudan",
+        "flag": "🇸🇸",
+        "continent_updated": "Africa"
       },
       "bbox": [
         23.88698,
@@ -77521,9 +77629,9 @@
     83.64513
   ],
   "metadata": {
-    "last_updated": "2025-10-30T16:27:04.747557",
+    "last_updated": "2025-10-30T16:41:21.516059",
     "source_geojson": "Natural Earth",
     "source_data": "mledoze/countries",
-    "countries_enriched": 163
+    "countries_enriched": 175
   }
 }
