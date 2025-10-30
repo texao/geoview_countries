@@ -4,12 +4,8 @@ import json
 import os
 from datetime import datetime
 
-# Natural Earth pour les frontières
 GEOJSON_URL = "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson"
-
-# API alternative avec structure différente
 API_URL = "https://raw.githubusercontent.com/mledoze/countries/master/dist/countries.json"
-
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "countries.json")
 
 def main():
@@ -23,68 +19,67 @@ def main():
     api_response.raise_for_status()
     countries_api = api_response.json()
 
-    # Créer un dictionnaire pour accès rapide par code ISO
-    api_dict = {}
-    for country in countries_api:
-        # Cette API utilise 'cca3' pour le code ISO
-        iso_code = country.get('cca3')
-        if iso_code:
-            api_dict[iso_code] = country
+    # Dictionnaire pour accès rapide par code ISO
+    api_dict = {c['cca3']: c for c in countries_api if c.get('cca3')}
     
     enriched = 0
-    
     print("🔄 Enrichissement des données...")
+
     for feature in geojson['features']:
         props = feature['properties']
         iso_code = (props.get('iso_a3') or props.get('adm0_a3') or '').upper()
+        api_country = api_dict.get(iso_code)
+
+        # fallback sur le nom si pas de code ISO correspondant
+        if not api_country:
+            name = props.get('NAME') or props.get('ADMIN') or ''
+            for c in countries_api:
+                if c.get('name', {}).get('common', '').lower() == name.lower():
+                    api_country = c
+                    break
+
+        # Si aucun match, on passe au pays suivant
+        if not api_country:
+            continue
         
-        if iso_code in api_dict:
-            api_country = api_dict[iso_code]
-            
-            # Population
-            props['population_updated'] = api_country.get('population')
-            props['population_year'] = datetime.now().year
-            
-            # Capitale - cette API stocke directement la capitale
-            if api_country.get('capital'):
-                # Dans cette API, capital est déjà une liste
-                props['capital'] = api_country['capital'][0] if api_country['capital'] else 'N/A'
-            
-            # Langues - cette API a une structure différente
-            if api_country.get('languages'):
-                # languages est un dict {code: nom}
-                lang_dict = api_country['languages']
-                if lang_dict:
-                    props['languages'] = list(lang_dict.values())[0]  # Première langue
-            
-            # Monnaies - structure différente
-            if api_country.get('currencies'):
-                currencies_dict = api_country['currencies']
-                if currencies_dict:
-                    # Prendre la première devise
-                    for code, data in currencies_dict.items():
-                        props['currency_name'] = data.get('name', 'N/A')
-                        props['currency_symbol'] = data.get('symbol', '')
-                        break
-            
-            # Nom du pays (plus fiable)
-            props['name_updated'] = api_country.get('name', {}).get('common', props.get('NAME'))
-            
-            # Continent
-            props['continent_updated'] = api_country.get('region', props.get('REGION_UN'))
-            
-            enriched += 1
-    
-    # Ajouter métadonnées de mise à jour
+        # Population
+        props['population_updated'] = api_country.get('population')
+        props['population_year'] = datetime.now().year
+        
+        # Capitale
+        if api_country.get('capital'):
+            props['capital'] = api_country['capital'][0] if api_country['capital'] else 'N/A'
+        
+        # Langues
+        if api_country.get('languages'):
+            lang_dict = api_country['languages']
+            if lang_dict:
+                props['languages'] = list(lang_dict.values())[0]
+        
+        # Monnaies
+        if api_country.get('currencies'):
+            currencies_dict = api_country['currencies']
+            if currencies_dict:
+                for code, data in currencies_dict.items():
+                    props['currency_name'] = data.get('name', 'N/A')
+                    props['currency_symbol'] = data.get('symbol', '')
+                    break
+        
+        # Nom et continent
+        props['name_updated'] = api_country.get('name', {}).get('common', props.get('NAME'))
+        props['continent_updated'] = api_country.get('region', props.get('REGION_UN'))
+        
+        enriched += 1
+
     geojson['metadata'] = {
         'last_updated': datetime.now().isoformat(),
         'source_geojson': 'Natural Earth',
         'source_data': 'mledoze/countries',
         'countries_enriched': enriched
     }
-    
+
     print(f"✅ {enriched}/{len(geojson['features'])} pays enrichis")
-    
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(geojson, f, ensure_ascii=False, indent=2)
     
