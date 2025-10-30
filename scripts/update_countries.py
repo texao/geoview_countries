@@ -7,7 +7,7 @@ from datetime import datetime
 # Natural Earth pour les frontières
 GEOJSON_URL = "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson"
 
-# REST Countries pour données à jour
+# API alternative avec structure différente
 API_URL = "https://raw.githubusercontent.com/mledoze/countries/master/dist/countries.json"
 
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "countries.json")
@@ -18,14 +18,18 @@ def main():
     geojson_response.raise_for_status()
     geojson = geojson_response.json()
     
-    print("🔄 Téléchargement REST Countries API...")
-    api_response = requests.get(API_URL, headers={"User-Agent": "Mozilla/5.0 (compatible; GeoViewBot/1.0)"})
+    print("🔄 Téléchargement API Countries...")
+    api_response = requests.get(API_URL, headers={"User-Agent": "Mozilla/5.0"})
     api_response.raise_for_status()
     countries_api = api_response.json()
 
-    
     # Créer un dictionnaire pour accès rapide par code ISO
-    api_dict = {c.get('cca3'): c for c in countries_api if c.get('cca3')}
+    api_dict = {}
+    for country in countries_api:
+        # Cette API utilise 'cca3' pour le code ISO
+        iso_code = country.get('cca3')
+        if iso_code:
+            api_dict[iso_code] = country
     
     enriched = 0
     
@@ -37,32 +41,37 @@ def main():
         if iso_code in api_dict:
             api_country = api_dict[iso_code]
             
-            # Ajouter les données API (plus récentes)
+            # Population
             props['population_updated'] = api_country.get('population')
             props['population_year'] = datetime.now().year
             
-            # Capitale
+            # Capitale - cette API stocke directement la capitale
             if api_country.get('capital'):
-                props['capital_updated'] = api_country['capital'][0]
+                # Dans cette API, capital est déjà une liste
+                props['capital'] = api_country['capital'][0] if api_country['capital'] else 'N/A'
             
-            # Langues
+            # Langues - cette API a une structure différente
             if api_country.get('languages'):
-                props['languages'] = list(api_country['languages'].values())
+                # languages est un dict {code: nom}
+                lang_dict = api_country['languages']
+                if lang_dict:
+                    props['languages'] = list(lang_dict.values())[0]  # Première langue
             
-            # Monnaies
+            # Monnaies - structure différente
             if api_country.get('currencies'):
-                currencies = []
-                for code, data in api_country['currencies'].items():
-                    currencies.append({
-                        'code': code,
-                        'name': data.get('name'),
-                        'symbol': data.get('symbol', '')
-                    })
-                props['currencies'] = currencies
+                currencies_dict = api_country['currencies']
+                if currencies_dict:
+                    # Prendre la première devise
+                    for code, data in currencies_dict.items():
+                        props['currency_name'] = data.get('name', 'N/A')
+                        props['currency_symbol'] = data.get('symbol', '')
+                        break
             
-            # Région
-            props['region'] = api_country.get('region', props.get('region'))
-            props['subregion'] = api_country.get('subregion', props.get('subregion'))
+            # Nom du pays (plus fiable)
+            props['name_updated'] = api_country.get('name', {}).get('common', props.get('NAME'))
+            
+            # Continent
+            props['continent_updated'] = api_country.get('region', props.get('REGION_UN'))
             
             enriched += 1
     
@@ -70,7 +79,7 @@ def main():
     geojson['metadata'] = {
         'last_updated': datetime.now().isoformat(),
         'source_geojson': 'Natural Earth',
-        'source_data': 'REST Countries API',
+        'source_data': 'mledoze/countries',
         'countries_enriched': enriched
     }
     
