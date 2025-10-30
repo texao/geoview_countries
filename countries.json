@@ -178,7 +178,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Suva",
+        "languages": "English",
+        "currency_name": "Fijian dollar",
+        "currency_symbol": "$",
+        "name_updated": "Fiji",
+        "continent_updated": "Oceania"
       },
       "bbox": [
         -180,
@@ -462,7 +470,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Dodoma",
+        "languages": "English",
+        "currency_name": "Tanzanian shilling",
+        "currency_symbol": "Sh",
+        "name_updated": "Tanzania",
+        "continent_updated": "Africa"
       },
       "bbox": [
         29.339998,
@@ -1154,7 +1170,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Ottawa",
+        "languages": "English",
+        "currency_name": "Canadian dollar",
+        "currency_symbol": "$",
+        "name_updated": "Canada",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -140.99778,
@@ -6646,7 +6670,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Astana",
+        "languages": "Kazakh",
+        "currency_name": "Kazakhstani tenge",
+        "currency_symbol": "₸",
+        "name_updated": "Kazakhstan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         46.466446,
@@ -7280,7 +7312,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tashkent",
+        "languages": "Russian",
+        "currency_name": "Uzbekistani soʻm",
+        "currency_symbol": "so'm",
+        "name_updated": "Uzbekistan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         55.928917,
@@ -7682,7 +7722,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Port Moresby",
+        "languages": "English",
+        "currency_name": "Papua New Guinean kina",
+        "currency_symbol": "K",
+        "name_updated": "Papua New Guinea",
+        "continent_updated": "Oceania"
       },
       "bbox": [
         141.00021,
@@ -8206,7 +8254,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Jakarta",
+        "languages": "Indonesian",
+        "currency_name": "Indonesian rupiah",
+        "currency_symbol": "Rp",
+        "name_updated": "Indonesia",
+        "continent_updated": "Asia"
       },
       "bbox": [
         95.293026,
@@ -9442,7 +9498,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Buenos Aires",
+        "languages": "Guaraní",
+        "currency_name": "Argentine peso",
+        "currency_symbol": "$",
+        "name_updated": "Argentina",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -73.415436,
@@ -10118,7 +10182,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Santiago",
+        "languages": "Spanish",
+        "currency_name": "Chilean peso",
+        "currency_symbol": "$",
+        "name_updated": "Chile",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -75.644395,
@@ -11448,7 +11520,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Mogadishu",
+        "languages": "Arabic",
+        "currency_name": "Somali shilling",
+        "currency_symbol": "Sh",
+        "name_updated": "Somalia",
+        "continent_updated": "Africa"
       },
       "bbox": [
         40.98105,
@@ -11782,7 +11862,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Nairobi",
+        "languages": "English",
+        "currency_name": "Kenyan shilling",
+        "currency_symbol": "Sh",
+        "name_updated": "Kenya",
+        "continent_updated": "Africa"
       },
       "bbox": [
         33.893569,
@@ -12116,7 +12204,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Khartoum",
+        "languages": "Arabic",
+        "currency_name": "Sudanese pound",
+        "currency_symbol": "PT",
+        "name_updated": "Sudan",
+        "continent_updated": "Africa"
       },
       "bbox": [
         21.93681,
@@ -12626,7 +12722,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "N'Djamena",
+        "languages": "Arabic",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Chad",
+        "continent_updated": "Africa"
       },
       "bbox": [
         13.540394,
@@ -13044,7 +13148,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Port-au-Prince",
+        "languages": "French",
+        "currency_name": "Haitian gourde",
+        "currency_symbol": "G",
+        "name_updated": "Haiti",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -74.458034,
@@ -13604,7 +13716,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Moscow",
+        "languages": "Russian",
+        "currency_name": "Russian ruble",
+        "currency_symbol": "₽",
+        "name_updated": "Russia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         -180,
@@ -16344,7 +16464,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Nassau",
+        "languages": "English",
+        "currency_name": "Bahamian dollar",
+        "currency_symbol": "$",
+        "name_updated": "Bahamas",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -78.98,
@@ -16850,7 +16978,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Oslo",
+        "languages": "Norwegian Nynorsk",
+        "currency_name": "Norwegian krone",
+        "currency_symbol": "kr",
+        "name_updated": "Norway",
+        "continent_updated": "Europe"
       },
       "bbox": [
         4.992078,
@@ -17402,7 +17538,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Nuuk",
+        "languages": "Greenlandic",
+        "currency_name": "krone",
+        "currency_symbol": "kr.",
+        "name_updated": "Greenland",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -73.297,
@@ -18338,7 +18482,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Dili",
+        "languages": "Portuguese",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "name_updated": "Timor-Leste",
+        "continent_updated": "Asia"
       },
       "bbox": [
         124.968682,
@@ -18568,7 +18720,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Pretoria",
+        "languages": "Afrikaans",
+        "currency_name": "South African rand",
+        "currency_symbol": "R",
+        "name_updated": "South Africa",
+        "continent_updated": "Africa"
       },
       "bbox": [
         16.344977,
@@ -19132,7 +19292,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Maseru",
+        "languages": "English",
+        "currency_name": "Lesotho loti",
+        "currency_symbol": "L",
+        "name_updated": "Lesotho",
+        "continent_updated": "Africa"
       },
       "bbox": [
         26.999262,
@@ -19366,7 +19534,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Mexico City",
+        "languages": "Spanish",
+        "currency_name": "Mexican peso",
+        "currency_symbol": "$",
+        "name_updated": "Mexico",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -117.12776,
@@ -20232,7 +20408,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Montevideo",
+        "languages": "Spanish",
+        "currency_name": "Uruguayan peso",
+        "currency_symbol": "$",
+        "name_updated": "Uruguay",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -58.427074,
@@ -20502,7 +20686,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Brasília",
+        "languages": "Portuguese",
+        "currency_name": "Brazilian real",
+        "currency_symbol": "R$",
+        "name_updated": "Brazil",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -73.987235,
@@ -21500,7 +21692,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Sucre",
+        "languages": "Aymara",
+        "currency_name": "Bolivian boliviano",
+        "currency_symbol": "Bs.",
+        "name_updated": "Bolivia",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -69.590424,
@@ -21926,7 +22126,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Lima",
+        "languages": "Aymara",
+        "currency_name": "Peruvian sol",
+        "currency_symbol": "S/.",
+        "name_updated": "Peru",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -81.410943,
@@ -22416,7 +22624,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bogotá",
+        "languages": "Spanish",
+        "currency_name": "Colombian peso",
+        "currency_symbol": "$",
+        "name_updated": "Colombia",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -78.990935,
@@ -23002,7 +23218,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Panama City",
+        "languages": "Spanish",
+        "currency_name": "Panamanian balboa",
+        "currency_symbol": "B/.",
+        "name_updated": "Panama",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -82.965783,
@@ -23396,7 +23620,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "San José",
+        "languages": "Spanish",
+        "currency_name": "Costa Rican colón",
+        "currency_symbol": "₡",
+        "name_updated": "Costa Rica",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -85.941725,
@@ -23726,7 +23958,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Managua",
+        "languages": "Spanish",
+        "currency_name": "Nicaraguan córdoba",
+        "currency_symbol": "C$",
+        "name_updated": "Nicaragua",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -87.668493,
@@ -24120,7 +24360,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tegucigalpa",
+        "languages": "Spanish",
+        "currency_name": "Honduran lempira",
+        "currency_symbol": "L",
+        "name_updated": "Honduras",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -89.353326,
@@ -24534,7 +24782,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "San Salvador",
+        "languages": "Spanish",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "name_updated": "El Salvador",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -90.095555,
@@ -24800,7 +25056,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Guatemala City",
+        "languages": "Spanish",
+        "currency_name": "Guatemalan quetzal",
+        "currency_symbol": "Q",
+        "name_updated": "Guatemala",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -92.229249,
@@ -25126,7 +25390,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Belmopan",
+        "languages": "Belizean Creole",
+        "currency_name": "Belize dollar",
+        "currency_symbol": "$",
+        "name_updated": "Belize",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -89.229122,
@@ -25392,7 +25664,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Caracas",
+        "languages": "Spanish",
+        "currency_name": "Venezuelan bolívar soberano",
+        "currency_symbol": "Bs.S.",
+        "name_updated": "Venezuela",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -73.304952,
@@ -25946,7 +26226,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Georgetown",
+        "languages": "English",
+        "currency_name": "Guyanese dollar",
+        "currency_symbol": "$",
+        "name_updated": "Guyana",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -61.410303,
@@ -26292,7 +26580,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Paramaribo",
+        "languages": "Dutch",
+        "currency_name": "Surinamese dollar",
+        "currency_symbol": "$",
+        "name_updated": "Suriname",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -58.044694,
@@ -26582,7 +26878,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Paris",
+        "languages": "French",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "France",
+        "continent_updated": "Europe"
       },
       "bbox": [
         -54.524754,
@@ -27074,7 +27378,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Quito",
+        "languages": "Spanish",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "name_updated": "Ecuador",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -80.967765,
@@ -27392,7 +27704,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "San Juan",
+        "languages": "English",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "name_updated": "Puerto Rico",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -67.242428,
@@ -27614,7 +27934,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kingston",
+        "languages": "English",
+        "currency_name": "Jamaican dollar",
+        "currency_symbol": "$",
+        "name_updated": "Jamaica",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -78.337719,
@@ -27844,7 +28172,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Havana",
+        "languages": "Spanish",
+        "currency_name": "Cuban convertible peso",
+        "currency_symbol": "$",
+        "name_updated": "Cuba",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -84.974911,
@@ -28198,7 +28534,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Harare",
+        "languages": "Chibarwe",
+        "currency_name": "Botswana pula",
+        "currency_symbol": "P",
+        "name_updated": "Zimbabwe",
+        "continent_updated": "Africa"
       },
       "bbox": [
         25.264226,
@@ -28532,7 +28876,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Gaborone",
+        "languages": "English",
+        "currency_name": "Botswana pula",
+        "currency_symbol": "P",
+        "name_updated": "Botswana",
+        "continent_updated": "Africa"
       },
       "bbox": [
         19.895458,
@@ -28878,7 +29230,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Windhoek",
+        "languages": "Afrikaans",
+        "currency_name": "Namibian dollar",
+        "currency_symbol": "$",
+        "name_updated": "Namibia",
+        "continent_updated": "Africa"
       },
       "bbox": [
         11.734199,
@@ -29240,7 +29600,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Dakar",
+        "languages": "French",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Senegal",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -17.625043,
@@ -29602,7 +29970,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bamako",
+        "languages": "French",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Mali",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -12.17075,
@@ -30092,7 +30468,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Nouakchott",
+        "languages": "Arabic",
+        "currency_name": "Mauritanian ouguiya",
+        "currency_symbol": "UM",
+        "name_updated": "Mauritania",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -17.063423,
@@ -30434,7 +30818,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Porto-Novo",
+        "languages": "French",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Benin",
+        "continent_updated": "Africa"
       },
       "bbox": [
         0.772336,
@@ -30720,7 +31112,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Niamey",
+        "languages": "French",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Niger",
+        "continent_updated": "Africa"
       },
       "bbox": [
         0.295646,
@@ -31138,7 +31538,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Abuja",
+        "languages": "English",
+        "currency_name": "Nigerian naira",
+        "currency_symbol": "₦",
+        "name_updated": "Nigeria",
+        "continent_updated": "Africa"
       },
       "bbox": [
         2.691702,
@@ -31556,7 +31964,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Yaoundé",
+        "languages": "English",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Cameroon",
+        "continent_updated": "Africa"
       },
       "bbox": [
         8.488816,
@@ -31986,7 +32402,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Lomé",
+        "languages": "French",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Togo",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -0.049785,
@@ -32248,7 +32672,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Accra",
+        "languages": "English",
+        "currency_name": "Ghanaian cedi",
+        "currency_symbol": "₵",
+        "name_updated": "Ghana",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -3.24437,
@@ -32904,7 +33336,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Conakry",
+        "languages": "French",
+        "currency_name": "Guinean franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Guinea",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -15.130311,
@@ -33370,7 +33810,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bissau",
+        "languages": "Portuguese",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Guinea-Bissau",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -16.677452,
@@ -33632,7 +34080,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Monrovia",
+        "languages": "English",
+        "currency_name": "Liberian dollar",
+        "currency_symbol": "$",
+        "name_updated": "Liberia",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -11.438779,
@@ -33926,7 +34382,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Freetown",
+        "languages": "English",
+        "currency_name": "Sierra Leonean leone",
+        "currency_symbol": "Le",
+        "name_updated": "Sierra Leone",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -13.24655,
@@ -34200,7 +34664,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Ouagadougou",
+        "languages": "French",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Burkina Faso",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -5.470565,
@@ -34976,7 +35448,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Brazzaville",
+        "languages": "French",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Congo",
+        "continent_updated": "Africa"
       },
       "bbox": [
         11.093773,
@@ -35358,7 +35838,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Libreville",
+        "languages": "French",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Gabon",
+        "continent_updated": "Africa"
       },
       "bbox": [
         8.797996,
@@ -35882,7 +36370,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Lusaka",
+        "languages": "English",
+        "currency_name": "Zambian kwacha",
+        "currency_symbol": "ZK",
+        "name_updated": "Zambia",
+        "continent_updated": "Africa"
       },
       "bbox": [
         21.887843,
@@ -36312,7 +36808,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Lilongwe",
+        "languages": "English",
+        "currency_name": "Malawian kwacha",
+        "currency_symbol": "MK",
+        "name_updated": "Malawi",
+        "continent_updated": "Africa"
       },
       "bbox": [
         32.688165,
@@ -36610,7 +37114,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Maputo",
+        "languages": "Portuguese",
+        "currency_name": "Mozambican metical",
+        "currency_symbol": "MT",
+        "name_updated": "Mozambique",
+        "continent_updated": "Africa"
       },
       "bbox": [
         30.179481,
@@ -37112,7 +37624,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Lobamba",
+        "languages": "English",
+        "currency_name": "Swazi lilangeni",
+        "currency_symbol": "L",
+        "name_updated": "Eswatini",
+        "continent_updated": "Africa"
       },
       "bbox": [
         30.676609,
@@ -37342,7 +37862,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Luanda",
+        "languages": "Portuguese",
+        "currency_name": "Angolan kwanza",
+        "currency_symbol": "Kz",
+        "name_updated": "Angola",
+        "continent_updated": "Africa"
       },
       "bbox": [
         11.640096,
@@ -37834,7 +38362,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Gitega",
+        "languages": "French",
+        "currency_name": "Burundian franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Burundi",
+        "continent_updated": "Africa"
       },
       "bbox": [
         29.024926,
@@ -38072,7 +38608,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": "Unrecognized",
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Jerusalem",
+        "languages": "Arabic",
+        "currency_name": "Israeli new shekel",
+        "currency_symbol": "₪",
+        "name_updated": "Israel",
+        "continent_updated": "Asia"
       },
       "bbox": [
         34.265433,
@@ -38362,7 +38906,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Beirut",
+        "languages": "Arabic",
+        "currency_name": "Lebanese pound",
+        "currency_symbol": "ل.ل",
+        "name_updated": "Lebanon",
+        "continent_updated": "Asia"
       },
       "bbox": [
         35.126053,
@@ -38592,7 +39144,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Antananarivo",
+        "languages": "French",
+        "currency_name": "Malagasy ariary",
+        "currency_symbol": "Ar",
+        "name_updated": "Madagascar",
+        "continent_updated": "Africa"
       },
       "bbox": [
         43.254187,
@@ -38974,7 +39534,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": "Admin-0 country",
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Ramallah",
+        "languages": "Arabic",
+        "currency_name": "Egyptian pound",
+        "currency_symbol": "E£",
+        "name_updated": "Palestine",
+        "continent_updated": "Asia"
       },
       "bbox": [
         34.927408,
@@ -39196,7 +39764,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Banjul",
+        "languages": "English",
+        "currency_name": "dalasi",
+        "currency_symbol": "D",
+        "name_updated": "Gambia",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -16.841525,
@@ -39446,7 +40022,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tunis",
+        "languages": "Arabic",
+        "currency_name": "Tunisian dinar",
+        "currency_symbol": "د.ت",
+        "name_updated": "Tunisia",
+        "continent_updated": "Africa"
       },
       "bbox": [
         7.524482,
@@ -39756,7 +40340,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Algiers",
+        "languages": "Arabic",
+        "currency_name": "Algerian dinar",
+        "currency_symbol": "د.ج",
+        "name_updated": "Algeria",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -8.6844,
@@ -40190,7 +40782,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Amman",
+        "languages": "Arabic",
+        "currency_name": "Jordanian dinar",
+        "currency_symbol": "د.ا",
+        "name_updated": "Jordan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         34.922603,
@@ -40452,7 +41052,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Abu Dhabi",
+        "languages": "Arabic",
+        "currency_name": "United Arab Emirates dirham",
+        "currency_symbol": "د.إ",
+        "name_updated": "United Arab Emirates",
+        "continent_updated": "Asia"
       },
       "bbox": [
         51.579519,
@@ -40726,7 +41334,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Doha",
+        "languages": "Arabic",
+        "currency_name": "Qatari riyal",
+        "currency_symbol": "ر.ق",
+        "name_updated": "Qatar",
+        "continent_updated": "Asia"
       },
       "bbox": [
         50.743911,
@@ -40948,7 +41564,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kuwait City",
+        "languages": "Arabic",
+        "currency_name": "Kuwaiti dinar",
+        "currency_symbol": "د.ك",
+        "name_updated": "Kuwait",
+        "continent_updated": "Asia"
       },
       "bbox": [
         46.568713,
@@ -41170,7 +41794,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Baghdad",
+        "languages": "Arabic",
+        "currency_name": "Iraqi dinar",
+        "currency_symbol": "ع.د",
+        "name_updated": "Iraq",
+        "continent_updated": "Asia"
       },
       "bbox": [
         38.792341,
@@ -41476,7 +42108,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Muscat",
+        "languages": "Arabic",
+        "currency_name": "Omani rial",
+        "currency_symbol": "ر.ع.",
+        "name_updated": "Oman",
+        "continent_updated": "Asia"
       },
       "bbox": [
         52.00001,
@@ -41856,7 +42496,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Port Vila",
+        "languages": "Bislama",
+        "currency_name": "Vanuatu vatu",
+        "currency_symbol": "Vt",
+        "name_updated": "Vanuatu",
+        "continent_updated": "Oceania"
       },
       "bbox": [
         166.629137,
@@ -42096,7 +42744,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Phnom Penh",
+        "languages": "Khmer",
+        "currency_name": "Cambodian riel",
+        "currency_symbol": "៛",
+        "name_updated": "Cambodia",
+        "continent_updated": "Asia"
       },
       "bbox": [
         102.348099,
@@ -42350,7 +43006,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bangkok",
+        "languages": "Thai",
+        "currency_name": "Thai baht",
+        "currency_symbol": "฿",
+        "name_updated": "Thailand",
+        "continent_updated": "Asia"
       },
       "bbox": [
         97.375896,
@@ -42792,7 +43456,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Vientiane",
+        "languages": "Lao",
+        "currency_name": "Lao kip",
+        "currency_symbol": "₭",
+        "name_updated": "Laos",
+        "continent_updated": "Asia"
       },
       "bbox": [
         100.115988,
@@ -43126,7 +43798,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Naypyidaw",
+        "languages": "Burmese",
+        "currency_name": "Burmese kyat",
+        "currency_symbol": "Ks",
+        "name_updated": "Myanmar",
+        "continent_updated": "Asia"
       },
       "bbox": [
         92.303234,
@@ -43592,7 +44272,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Hanoi",
+        "languages": "Vietnamese",
+        "currency_name": "Vietnamese đồng",
+        "currency_symbol": "₫",
+        "name_updated": "Vietnam",
+        "continent_updated": "Asia"
       },
       "bbox": [
         102.170436,
@@ -43954,7 +44642,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Pyongyang",
+        "languages": "Korean",
+        "currency_name": "North Korean won",
+        "currency_symbol": "₩",
+        "name_updated": "North Korea",
+        "continent_updated": "Asia"
       },
       "bbox": [
         124.265625,
@@ -44338,7 +45034,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Seoul",
+        "languages": "Korean",
+        "currency_name": "South Korean won",
+        "currency_symbol": "₩",
+        "name_updated": "South Korea",
+        "continent_updated": "Asia"
       },
       "bbox": [
         126.117398,
@@ -44600,7 +45304,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Ulan Bator",
+        "languages": "Mongolian",
+        "currency_name": "Mongolian tögrög",
+        "currency_symbol": "₮",
+        "name_updated": "Mongolia",
+        "continent_updated": "Asia"
       },
       "bbox": [
         87.751264,
@@ -45086,7 +45798,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "New Delhi",
+        "languages": "English",
+        "currency_name": "Indian rupee",
+        "currency_symbol": "₹",
+        "name_updated": "India",
+        "continent_updated": "Asia"
       },
       "bbox": [
         68.176645,
@@ -45816,7 +46536,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Dhaka",
+        "languages": "Bengali",
+        "currency_name": "Bangladeshi taka",
+        "currency_symbol": "৳",
+        "name_updated": "Bangladesh",
+        "continent_updated": "Asia"
       },
       "bbox": [
         88.084422,
@@ -46146,7 +46874,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Thimphu",
+        "languages": "Dzongkha",
+        "currency_name": "Bhutanese ngultrum",
+        "currency_symbol": "Nu.",
+        "name_updated": "Bhutan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         88.814248,
@@ -46384,7 +47120,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kathmandu",
+        "languages": "Nepali",
+        "currency_name": "Nepalese rupee",
+        "currency_symbol": "₨",
+        "name_updated": "Nepal",
+        "continent_updated": "Asia"
       },
       "bbox": [
         80.088425,
@@ -46662,7 +47406,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Islamabad",
+        "languages": "English",
+        "currency_name": "Pakistani rupee",
+        "currency_symbol": "₨",
+        "name_updated": "Pakistan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         60.874248,
@@ -47112,7 +47864,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kabul",
+        "languages": "Dari",
+        "currency_name": "Afghan afghani",
+        "currency_symbol": "؋",
+        "name_updated": "Afghanistan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         60.52843,
@@ -47574,7 +48334,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Dushanbe",
+        "languages": "Russian",
+        "currency_name": "Tajikistani somoni",
+        "currency_symbol": "ЅМ",
+        "name_updated": "Tajikistan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         67.44222,
@@ -47924,7 +48692,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bishkek",
+        "languages": "Kyrgyz",
+        "currency_name": "Kyrgyzstani som",
+        "currency_symbol": "с",
+        "name_updated": "Kyrgyzstan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         69.464887,
@@ -48250,7 +49026,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Ashgabat",
+        "languages": "Russian",
+        "currency_name": "Turkmenistan manat",
+        "currency_symbol": "m",
+        "name_updated": "Turkmenistan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         52.50246,
@@ -48652,7 +49436,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tehran",
+        "languages": "Persian (Farsi)",
+        "currency_name": "Iranian rial",
+        "currency_symbol": "﷼",
+        "name_updated": "Iran",
+        "continent_updated": "Asia"
       },
       "bbox": [
         44.109225,
@@ -49142,7 +49934,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Damascus",
+        "languages": "Arabic",
+        "currency_name": "Syrian pound",
+        "currency_symbol": "£",
+        "name_updated": "Syria",
+        "continent_updated": "Asia"
       },
       "bbox": [
         35.700798,
@@ -49436,7 +50236,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Yerevan",
+        "languages": "Armenian",
+        "currency_name": "Armenian dram",
+        "currency_symbol": "֏",
+        "name_updated": "Armenia",
+        "continent_updated": "Asia"
       },
       "bbox": [
         43.582746,
@@ -49702,7 +50510,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Stockholm",
+        "languages": "Swedish",
+        "currency_name": "Swedish krona",
+        "currency_symbol": "kr",
+        "name_updated": "Sweden",
+        "continent_updated": "Europe"
       },
       "bbox": [
         11.027369,
@@ -50048,7 +50864,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Minsk",
+        "languages": "Belarusian",
+        "currency_name": "Belarusian ruble",
+        "currency_symbol": "Br",
+        "name_updated": "Belarus",
+        "continent_updated": "Europe"
       },
       "bbox": [
         23.199494,
@@ -50414,7 +51238,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kyiv",
+        "languages": "Ukrainian",
+        "currency_name": "Ukrainian hryvnia",
+        "currency_symbol": "₴",
+        "name_updated": "Ukraine",
+        "continent_updated": "Europe"
       },
       "bbox": [
         22.085608,
@@ -50972,7 +51804,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Warsaw",
+        "languages": "Polish",
+        "currency_name": "Polish złoty",
+        "currency_symbol": "zł",
+        "name_updated": "Poland",
+        "continent_updated": "Europe"
       },
       "bbox": [
         14.074521,
@@ -51338,7 +52178,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Vienna",
+        "languages": "Austro-Bavarian German",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Austria",
+        "continent_updated": "Europe"
       },
       "bbox": [
         9.47997,
@@ -51672,7 +52520,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Budapest",
+        "languages": "Hungarian",
+        "currency_name": "Hungarian forint",
+        "currency_symbol": "Ft",
+        "name_updated": "Hungary",
+        "continent_updated": "Europe"
       },
       "bbox": [
         16.202298,
@@ -51986,7 +52842,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Chișinău",
+        "languages": "Moldavian",
+        "currency_name": "Moldovan leu",
+        "currency_symbol": "L",
+        "name_updated": "Moldova",
+        "continent_updated": "Europe"
       },
       "bbox": [
         26.619337,
@@ -52280,7 +53144,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bucharest",
+        "languages": "Romanian",
+        "currency_name": "Romanian leu",
+        "currency_symbol": "lei",
+        "name_updated": "Romania",
+        "continent_updated": "Europe"
       },
       "bbox": [
         20.220192,
@@ -52642,7 +53514,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Vilnius",
+        "languages": "Lithuanian",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Lithuania",
+        "continent_updated": "Europe"
       },
       "bbox": [
         21.0558,
@@ -52904,7 +53784,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Riga",
+        "languages": "Latvian",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Latvia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         21.0558,
@@ -53178,7 +54066,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tallinn",
+        "languages": "Estonian",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Estonia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         23.339795,
@@ -53440,7 +54336,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Berlin",
+        "languages": "German",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Germany",
+        "continent_updated": "Europe"
       },
       "bbox": [
         5.988658,
@@ -53858,7 +54762,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Sofia",
+        "languages": "Bulgarian",
+        "currency_name": "Bulgarian lev",
+        "currency_symbol": "лв",
+        "name_updated": "Bulgaria",
+        "continent_updated": "Europe"
       },
       "bbox": [
         22.380526,
@@ -54156,7 +55068,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Athens",
+        "languages": "Greek",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Greece",
+        "continent_updated": "Europe"
       },
       "bbox": [
         20.150016,
@@ -55028,7 +55948,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tirana",
+        "languages": "Albanian",
+        "currency_name": "Albanian lek",
+        "currency_symbol": "L",
+        "name_updated": "Albania",
+        "continent_updated": "Europe"
       },
       "bbox": [
         19.304486,
@@ -55310,7 +56238,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Zagreb",
+        "languages": "Croatian",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Croatia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         13.656976,
@@ -55668,7 +56604,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bern",
+        "languages": "French",
+        "currency_name": "Swiss franc",
+        "currency_symbol": "Fr.",
+        "name_updated": "Switzerland",
+        "continent_updated": "Europe"
       },
       "bbox": [
         6.022609,
@@ -55950,7 +56894,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Luxembourg",
+        "languages": "German",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Luxembourg",
+        "continent_updated": "Europe"
       },
       "bbox": [
         5.674052,
@@ -56164,7 +57116,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Brussels",
+        "languages": "German",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Belgium",
+        "continent_updated": "Europe"
       },
       "bbox": [
         2.513573,
@@ -56418,7 +57378,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Amsterdam",
+        "languages": "Dutch",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Netherlands",
+        "continent_updated": "Europe"
       },
       "bbox": [
         3.314971,
@@ -56664,7 +57632,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Lisbon",
+        "languages": "Portuguese",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Portugal",
+        "continent_updated": "Europe"
       },
       "bbox": [
         -9.526571,
@@ -56982,7 +57958,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Madrid",
+        "languages": "Spanish",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Spain",
+        "continent_updated": "Europe"
       },
       "bbox": [
         -9.392884,
@@ -57372,7 +58356,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Dublin",
+        "languages": "English",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Ireland",
+        "continent_updated": "Europe"
       },
       "bbox": [
         -9.977086,
@@ -57610,7 +58602,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Nouméa",
+        "languages": "French",
+        "currency_name": "CFP franc",
+        "currency_symbol": "₣",
+        "name_updated": "New Caledonia",
+        "continent_updated": "Oceania"
       },
       "bbox": [
         164.029606,
@@ -58200,7 +59200,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Wellington",
+        "languages": "English",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "name_updated": "New Zealand",
+        "continent_updated": "Oceania"
       },
       "bbox": [
         166.509144,
@@ -58656,7 +59664,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Canberra",
+        "languages": "English",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "name_updated": "Australia",
+        "continent_updated": "Oceania"
       },
       "bbox": [
         113.338953,
@@ -59812,7 +60828,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Colombo",
+        "languages": "Sinhala",
+        "currency_name": "Sri Lankan rupee",
+        "currency_symbol": "Rs රු",
+        "name_updated": "Sri Lanka",
+        "continent_updated": "Asia"
       },
       "bbox": [
         79.695167,
@@ -60038,7 +61062,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Beijing",
+        "languages": "Chinese",
+        "currency_name": "Chinese yuan",
+        "currency_symbol": "¥",
+        "name_updated": "China",
+        "continent_updated": "Asia"
       },
       "bbox": [
         73.675379,
@@ -61190,7 +62222,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": "Admin-1 states provinces",
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Taipei",
+        "languages": "Chinese",
+        "currency_name": "New Taiwan dollar",
+        "currency_symbol": "$",
+        "name_updated": "Taiwan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         120.106189,
@@ -61412,7 +62452,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Rome",
+        "languages": "Italian",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Italy",
+        "continent_updated": "Europe"
       },
       "bbox": [
         6.749955,
@@ -61956,7 +63004,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Copenhagen",
+        "languages": "Danish",
+        "currency_name": "Danish krone",
+        "currency_symbol": "kr",
+        "name_updated": "Denmark",
+        "continent_updated": "Europe"
       },
       "bbox": [
         8.089977,
@@ -62244,7 +63300,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "London",
+        "languages": "English",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "name_updated": "United Kingdom",
+        "continent_updated": "Europe"
       },
       "bbox": [
         -7.572168,
@@ -62660,7 +63724,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Reykjavik",
+        "languages": "Icelandic",
+        "currency_name": "Icelandic króna",
+        "currency_symbol": "kr",
+        "name_updated": "Iceland",
+        "continent_updated": "Europe"
       },
       "bbox": [
         -24.326184,
@@ -62926,7 +63998,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Baku",
+        "languages": "Azerbaijani",
+        "currency_name": "Azerbaijani manat",
+        "currency_symbol": "₼",
+        "name_updated": "Azerbaijan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         44.79399,
@@ -63294,7 +64374,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tbilisi",
+        "languages": "Georgian",
+        "currency_name": "lari",
+        "currency_symbol": "₾",
+        "name_updated": "Georgia",
+        "continent_updated": "Asia"
       },
       "bbox": [
         39.955009,
@@ -63576,7 +64664,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Manila",
+        "languages": "English",
+        "currency_name": "Philippine peso",
+        "currency_symbol": "₱",
+        "name_updated": "Philippines",
+        "continent_updated": "Asia"
       },
       "bbox": [
         117.174275,
@@ -64228,7 +65324,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kuala Lumpur",
+        "languages": "English",
+        "currency_name": "Malaysian ringgit",
+        "currency_symbol": "RM",
+        "name_updated": "Malaysia",
+        "continent_updated": "Asia"
       },
       "bbox": [
         100.085757,
@@ -64668,7 +65772,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bandar Seri Begawan",
+        "languages": "Malay",
+        "currency_name": "Brunei dollar",
+        "currency_symbol": "$",
+        "name_updated": "Brunei",
+        "continent_updated": "Asia"
       },
       "bbox": [
         114.204017,
@@ -64886,7 +65998,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Ljubljana",
+        "languages": "Slovene",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Slovenia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         13.69811,
@@ -65144,7 +66264,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Helsinki",
+        "languages": "Finnish",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Finland",
+        "continent_updated": "Europe"
       },
       "bbox": [
         20.645593,
@@ -65490,7 +66618,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Bratislava",
+        "languages": "Slovak",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Slovakia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         16.879983,
@@ -65808,7 +66944,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Prague",
+        "languages": "Czech",
+        "currency_name": "Czech koruna",
+        "currency_symbol": "Kč",
+        "name_updated": "Czechia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         12.240111,
@@ -66134,7 +67278,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Asmara",
+        "languages": "Arabic",
+        "currency_name": "Eritrean nakfa",
+        "currency_symbol": "Nfk",
+        "name_updated": "Eritrea",
+        "continent_updated": "Africa"
       },
       "bbox": [
         36.32322,
@@ -66432,7 +67584,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tokyo",
+        "languages": "Japanese",
+        "currency_name": "Japanese yen",
+        "currency_symbol": "¥",
+        "name_updated": "Japan",
+        "continent_updated": "Asia"
       },
       "bbox": [
         129.408463,
@@ -66888,7 +68048,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Asunción",
+        "languages": "Guaraní",
+        "currency_name": "Paraguayan guaraní",
+        "currency_symbol": "₲",
+        "name_updated": "Paraguay",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -62.685057,
@@ -67206,7 +68374,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Sana'a",
+        "languages": "Arabic",
+        "currency_name": "Yemeni rial",
+        "currency_symbol": "﷼",
+        "name_updated": "Yemen",
+        "continent_updated": "Asia"
       },
       "bbox": [
         42.604873,
@@ -67568,7 +68744,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Riyadh",
+        "languages": "Arabic",
+        "currency_name": "Saudi riyal",
+        "currency_symbol": "ر.س",
+        "name_updated": "Saudi Arabia",
+        "continent_updated": "Asia"
       },
       "bbox": [
         34.632336,
@@ -68058,7 +69242,11 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "name_updated": "Antarctica",
+        "continent_updated": "Antarctic"
       },
       "bbox": [
         -180,
@@ -71168,7 +72356,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Nicosia",
+        "languages": "Greek",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Cyprus",
+        "continent_updated": "Europe"
       },
       "bbox": [
         32.256667,
@@ -71414,7 +72610,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Rabat",
+        "languages": "Arabic",
+        "currency_name": "Moroccan dirham",
+        "currency_symbol": "د.م.",
+        "name_updated": "Morocco",
+        "continent_updated": "Africa"
       },
       "bbox": [
         -17.020428,
@@ -71852,7 +73056,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Cairo",
+        "languages": "Arabic",
+        "currency_name": "Egyptian pound",
+        "currency_symbol": "£",
+        "name_updated": "Egypt",
+        "continent_updated": "Africa"
       },
       "bbox": [
         24.70007,
@@ -72214,7 +73426,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Tripoli",
+        "languages": "Arabic",
+        "currency_name": "Libyan dinar",
+        "currency_symbol": "ل.د",
+        "name_updated": "Libya",
+        "continent_updated": "Africa"
       },
       "bbox": [
         9.319411,
@@ -72624,7 +73844,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Addis Ababa",
+        "languages": "Amharic",
+        "currency_name": "Ethiopian birr",
+        "currency_symbol": "Br",
+        "name_updated": "Ethiopia",
+        "continent_updated": "Africa"
       },
       "bbox": [
         32.95418,
@@ -73046,7 +74274,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Djibouti",
+        "languages": "Arabic",
+        "currency_name": "Djiboutian franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Djibouti",
+        "continent_updated": "Africa"
       },
       "bbox": [
         41.66176,
@@ -73582,7 +74818,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kampala",
+        "languages": "English",
+        "currency_name": "Ugandan shilling",
+        "currency_symbol": "Sh",
+        "name_updated": "Uganda",
+        "continent_updated": "Africa"
       },
       "bbox": [
         29.579466,
@@ -73880,7 +75124,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Kigali",
+        "languages": "English",
+        "currency_name": "Rwandan franc",
+        "currency_symbol": "Fr",
+        "name_updated": "Rwanda",
+        "continent_updated": "Africa"
       },
       "bbox": [
         29.024926,
@@ -74400,7 +75652,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Skopje",
+        "languages": "Macedonian",
+        "currency_name": "denar",
+        "currency_symbol": "den",
+        "name_updated": "North Macedonia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         20.463175,
@@ -74658,7 +75918,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Belgrade",
+        "languages": "Serbian",
+        "currency_name": "Serbian dinar",
+        "currency_symbol": "дин.",
+        "name_updated": "Serbia",
+        "continent_updated": "Europe"
       },
       "bbox": [
         18.829825,
@@ -75036,7 +76304,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Podgorica",
+        "languages": "Montenegrin",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Montenegro",
+        "continent_updated": "Europe"
       },
       "bbox": [
         18.450017,
@@ -75294,7 +76570,15 @@
         "FCLASS_NL": "Admin-0 country",
         "FCLASS_SE": "Admin-0 country",
         "FCLASS_BD": "Admin-0 country",
-        "FCLASS_UA": "Unrecognized"
+        "FCLASS_UA": "Unrecognized",
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Pristina",
+        "languages": "Albanian",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "name_updated": "Kosovo",
+        "continent_updated": "Europe"
       },
       "bbox": [
         20.0707,
@@ -75564,7 +76848,15 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Port of Spain",
+        "languages": "English",
+        "currency_name": "Trinidad and Tobago dollar",
+        "currency_symbol": "$",
+        "name_updated": "Trinidad and Tobago",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -61.95,
@@ -76058,9 +77350,9 @@
     83.64513
   ],
   "metadata": {
-    "last_updated": "2025-10-30T15:33:34.859609",
+    "last_updated": "2025-10-30T15:45:36.573773",
     "source_geojson": "Natural Earth",
     "source_data": "mledoze/countries",
-    "countries_enriched": 0
+    "countries_enriched": 162
   }
 }
