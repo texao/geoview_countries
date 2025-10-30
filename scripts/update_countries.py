@@ -3,6 +3,7 @@ import requests
 import json
 import os
 from datetime import datetime
+from unidecode import unidecode
 
 GEOJSON_URL = "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson"
 API_URL = "https://raw.githubusercontent.com/mledoze/countries/master/dist/countries.json"
@@ -31,12 +32,15 @@ def main():
         api_country = api_dict.get(iso_code)
 
         # fallback sur le nom si pas de code ISO correspondant
-        if not api_country:
-            name = props.get('NAME') or props.get('ADMIN') or ''
-            for c in countries_api:
-                if c.get('name', {}).get('common', '').lower() == name.lower():
-                    api_country = c
-                    break
+       if not api_country:
+           name = props.get('NAME') or props.get('ADMIN') or ''
+           name_norm = unidecode(name).lower()  # supprimer accents
+           for c in countries_api:
+               common_name = unidecode(c.get('name', {}).get('common', '')).lower()
+               official_name = unidecode(c.get('name', {}).get('official', '')).lower()
+               if name_norm in [common_name, official_name]:
+                   api_country = c
+                   break
 
         # Si aucun match, on passe au pays suivant
         if not api_country:
