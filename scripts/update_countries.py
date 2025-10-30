@@ -67,6 +67,7 @@ def main():
         
         # Nom et continent
         props['name_updated'] = api_country.get('name', {}).get('common', props.get('NAME'))
+        props['flag'] = api_country.get('flag', '')  # emoji du drapeau
         props['continent_updated'] = api_country.get('region', props.get('REGION_UN'))
         
         enriched += 1
