@@ -186,6 +186,7 @@
         "currency_name": "Fijian dollar",
         "currency_symbol": "$",
         "name_updated": "Fiji",
+        "flag": "🇫🇯",
         "continent_updated": "Oceania"
       },
       "bbox": [
@@ -478,6 +479,7 @@
         "currency_name": "Tanzanian shilling",
         "currency_symbol": "Sh",
         "name_updated": "Tanzania",
+        "flag": "🇹🇿",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -1178,6 +1180,7 @@
         "currency_name": "Canadian dollar",
         "currency_symbol": "$",
         "name_updated": "Canada",
+        "flag": "🇨🇦",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -6678,6 +6681,7 @@
         "currency_name": "Kazakhstani tenge",
         "currency_symbol": "₸",
         "name_updated": "Kazakhstan",
+        "flag": "🇰🇿",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -7320,6 +7324,7 @@
         "currency_name": "Uzbekistani soʻm",
         "currency_symbol": "so'm",
         "name_updated": "Uzbekistan",
+        "flag": "🇺🇿",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -7730,6 +7735,7 @@
         "currency_name": "Papua New Guinean kina",
         "currency_symbol": "K",
         "name_updated": "Papua New Guinea",
+        "flag": "🇵🇬",
         "continent_updated": "Oceania"
       },
       "bbox": [
@@ -8262,6 +8268,7 @@
         "currency_name": "Indonesian rupiah",
         "currency_symbol": "Rp",
         "name_updated": "Indonesia",
+        "flag": "🇮🇩",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -9506,6 +9513,7 @@
         "currency_name": "Argentine peso",
         "currency_symbol": "$",
         "name_updated": "Argentina",
+        "flag": "🇦🇷",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -10190,6 +10198,7 @@
         "currency_name": "Chilean peso",
         "currency_symbol": "$",
         "name_updated": "Chile",
+        "flag": "🇨🇱",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -11528,6 +11537,7 @@
         "currency_name": "Somali shilling",
         "currency_symbol": "Sh",
         "name_updated": "Somalia",
+        "flag": "🇸🇴",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -11870,6 +11880,7 @@
         "currency_name": "Kenyan shilling",
         "currency_symbol": "Sh",
         "name_updated": "Kenya",
+        "flag": "🇰🇪",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -12212,6 +12223,7 @@
         "currency_name": "Sudanese pound",
         "currency_symbol": "PT",
         "name_updated": "Sudan",
+        "flag": "🇸🇩",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -12730,6 +12742,7 @@
         "currency_name": "Central African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Chad",
+        "flag": "🇹🇩",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -13156,6 +13169,7 @@
         "currency_name": "Haitian gourde",
         "currency_symbol": "G",
         "name_updated": "Haiti",
+        "flag": "🇭🇹",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -13724,6 +13738,7 @@
         "currency_name": "Russian ruble",
         "currency_symbol": "₽",
         "name_updated": "Russia",
+        "flag": "🇷🇺",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -16472,6 +16487,7 @@
         "currency_name": "Bahamian dollar",
         "currency_symbol": "$",
         "name_updated": "Bahamas",
+        "flag": "🇧🇸",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -16986,6 +17002,7 @@
         "currency_name": "Norwegian krone",
         "currency_symbol": "kr",
         "name_updated": "Norway",
+        "flag": "🇳🇴",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -17546,6 +17563,7 @@
         "currency_name": "krone",
         "currency_symbol": "kr.",
         "name_updated": "Greenland",
+        "flag": "🇬🇱",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -18490,6 +18508,7 @@
         "currency_name": "United States dollar",
         "currency_symbol": "$",
         "name_updated": "Timor-Leste",
+        "flag": "🇹🇱",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -18728,6 +18747,7 @@
         "currency_name": "South African rand",
         "currency_symbol": "R",
         "name_updated": "South Africa",
+        "flag": "🇿🇦",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -19300,6 +19320,7 @@
         "currency_name": "Lesotho loti",
         "currency_symbol": "L",
         "name_updated": "Lesotho",
+        "flag": "🇱🇸",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -19542,6 +19563,7 @@
         "currency_name": "Mexican peso",
         "currency_symbol": "$",
         "name_updated": "Mexico",
+        "flag": "🇲🇽",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -20416,6 +20438,7 @@
         "currency_name": "Uruguayan peso",
         "currency_symbol": "$",
         "name_updated": "Uruguay",
+        "flag": "🇺🇾",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -20694,6 +20717,7 @@
         "currency_name": "Brazilian real",
         "currency_symbol": "R$",
         "name_updated": "Brazil",
+        "flag": "🇧🇷",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -21700,6 +21724,7 @@
         "currency_name": "Bolivian boliviano",
         "currency_symbol": "Bs.",
         "name_updated": "Bolivia",
+        "flag": "🇧🇴",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -22134,6 +22159,7 @@
         "currency_name": "Peruvian sol",
         "currency_symbol": "S/.",
         "name_updated": "Peru",
+        "flag": "🇵🇪",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -22632,6 +22658,7 @@
         "currency_name": "Colombian peso",
         "currency_symbol": "$",
         "name_updated": "Colombia",
+        "flag": "🇨🇴",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -23226,6 +23253,7 @@
         "currency_name": "Panamanian balboa",
         "currency_symbol": "B/.",
         "name_updated": "Panama",
+        "flag": "🇵🇦",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -23628,6 +23656,7 @@
         "currency_name": "Costa Rican colón",
         "currency_symbol": "₡",
         "name_updated": "Costa Rica",
+        "flag": "🇨🇷",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -23966,6 +23995,7 @@
         "currency_name": "Nicaraguan córdoba",
         "currency_symbol": "C$",
         "name_updated": "Nicaragua",
+        "flag": "🇳🇮",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -24368,6 +24398,7 @@
         "currency_name": "Honduran lempira",
         "currency_symbol": "L",
         "name_updated": "Honduras",
+        "flag": "🇭🇳",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -24790,6 +24821,7 @@
         "currency_name": "United States dollar",
         "currency_symbol": "$",
         "name_updated": "El Salvador",
+        "flag": "🇸🇻",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -25064,6 +25096,7 @@
         "currency_name": "Guatemalan quetzal",
         "currency_symbol": "Q",
         "name_updated": "Guatemala",
+        "flag": "🇬🇹",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -25398,6 +25431,7 @@
         "currency_name": "Belize dollar",
         "currency_symbol": "$",
         "name_updated": "Belize",
+        "flag": "🇧🇿",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -25672,6 +25706,7 @@
         "currency_name": "Venezuelan bolívar soberano",
         "currency_symbol": "Bs.S.",
         "name_updated": "Venezuela",
+        "flag": "🇻🇪",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -26234,6 +26269,7 @@
         "currency_name": "Guyanese dollar",
         "currency_symbol": "$",
         "name_updated": "Guyana",
+        "flag": "🇬🇾",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -26588,6 +26624,7 @@
         "currency_name": "Surinamese dollar",
         "currency_symbol": "$",
         "name_updated": "Suriname",
+        "flag": "🇸🇷",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -26886,6 +26923,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "France",
+        "flag": "🇫🇷",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -27386,6 +27424,7 @@
         "currency_name": "United States dollar",
         "currency_symbol": "$",
         "name_updated": "Ecuador",
+        "flag": "🇪🇨",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -27712,6 +27751,7 @@
         "currency_name": "United States dollar",
         "currency_symbol": "$",
         "name_updated": "Puerto Rico",
+        "flag": "🇵🇷",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -27942,6 +27982,7 @@
         "currency_name": "Jamaican dollar",
         "currency_symbol": "$",
         "name_updated": "Jamaica",
+        "flag": "🇯🇲",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -28180,6 +28221,7 @@
         "currency_name": "Cuban convertible peso",
         "currency_symbol": "$",
         "name_updated": "Cuba",
+        "flag": "🇨🇺",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -28542,6 +28584,7 @@
         "currency_name": "Botswana pula",
         "currency_symbol": "P",
         "name_updated": "Zimbabwe",
+        "flag": "🇿🇼",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -28884,6 +28927,7 @@
         "currency_name": "Botswana pula",
         "currency_symbol": "P",
         "name_updated": "Botswana",
+        "flag": "🇧🇼",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -29238,6 +29282,7 @@
         "currency_name": "Namibian dollar",
         "currency_symbol": "$",
         "name_updated": "Namibia",
+        "flag": "🇳🇦",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -29608,6 +29653,7 @@
         "currency_name": "West African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Senegal",
+        "flag": "🇸🇳",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -29978,6 +30024,7 @@
         "currency_name": "West African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Mali",
+        "flag": "🇲🇱",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -30476,6 +30523,7 @@
         "currency_name": "Mauritanian ouguiya",
         "currency_symbol": "UM",
         "name_updated": "Mauritania",
+        "flag": "🇲🇷",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -30826,6 +30874,7 @@
         "currency_name": "West African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Benin",
+        "flag": "🇧🇯",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -31120,6 +31169,7 @@
         "currency_name": "West African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Niger",
+        "flag": "🇳🇪",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -31546,6 +31596,7 @@
         "currency_name": "Nigerian naira",
         "currency_symbol": "₦",
         "name_updated": "Nigeria",
+        "flag": "🇳🇬",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -31972,6 +32023,7 @@
         "currency_name": "Central African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Cameroon",
+        "flag": "🇨🇲",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -32410,6 +32462,7 @@
         "currency_name": "West African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Togo",
+        "flag": "🇹🇬",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -32680,6 +32733,7 @@
         "currency_name": "Ghanaian cedi",
         "currency_symbol": "₵",
         "name_updated": "Ghana",
+        "flag": "🇬🇭",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -33344,6 +33398,7 @@
         "currency_name": "Guinean franc",
         "currency_symbol": "Fr",
         "name_updated": "Guinea",
+        "flag": "🇬🇳",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -33818,6 +33873,7 @@
         "currency_name": "West African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Guinea-Bissau",
+        "flag": "🇬🇼",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -34088,6 +34144,7 @@
         "currency_name": "Liberian dollar",
         "currency_symbol": "$",
         "name_updated": "Liberia",
+        "flag": "🇱🇷",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -34390,6 +34447,7 @@
         "currency_name": "Sierra Leonean leone",
         "currency_symbol": "Le",
         "name_updated": "Sierra Leone",
+        "flag": "🇸🇱",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -34672,6 +34730,7 @@
         "currency_name": "West African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Burkina Faso",
+        "flag": "🇧🇫",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -35456,6 +35515,7 @@
         "currency_name": "Central African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Congo",
+        "flag": "🇨🇬",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -35846,6 +35906,7 @@
         "currency_name": "Central African CFA franc",
         "currency_symbol": "Fr",
         "name_updated": "Gabon",
+        "flag": "🇬🇦",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -36378,6 +36439,7 @@
         "currency_name": "Zambian kwacha",
         "currency_symbol": "ZK",
         "name_updated": "Zambia",
+        "flag": "🇿🇲",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -36816,6 +36878,7 @@
         "currency_name": "Malawian kwacha",
         "currency_symbol": "MK",
         "name_updated": "Malawi",
+        "flag": "🇲🇼",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -37122,6 +37185,7 @@
         "currency_name": "Mozambican metical",
         "currency_symbol": "MT",
         "name_updated": "Mozambique",
+        "flag": "🇲🇿",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -37632,6 +37696,7 @@
         "currency_name": "Swazi lilangeni",
         "currency_symbol": "L",
         "name_updated": "Eswatini",
+        "flag": "🇸🇿",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -37870,6 +37935,7 @@
         "currency_name": "Angolan kwanza",
         "currency_symbol": "Kz",
         "name_updated": "Angola",
+        "flag": "🇦🇴",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -38370,6 +38436,7 @@
         "currency_name": "Burundian franc",
         "currency_symbol": "Fr",
         "name_updated": "Burundi",
+        "flag": "🇧🇮",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -38616,6 +38683,7 @@
         "currency_name": "Israeli new shekel",
         "currency_symbol": "₪",
         "name_updated": "Israel",
+        "flag": "🇮🇱",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -38914,6 +38982,7 @@
         "currency_name": "Lebanese pound",
         "currency_symbol": "ل.ل",
         "name_updated": "Lebanon",
+        "flag": "🇱🇧",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -39152,6 +39221,7 @@
         "currency_name": "Malagasy ariary",
         "currency_symbol": "Ar",
         "name_updated": "Madagascar",
+        "flag": "🇲🇬",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -39542,6 +39612,7 @@
         "currency_name": "Egyptian pound",
         "currency_symbol": "E£",
         "name_updated": "Palestine",
+        "flag": "🇵🇸",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -39772,6 +39843,7 @@
         "currency_name": "dalasi",
         "currency_symbol": "D",
         "name_updated": "Gambia",
+        "flag": "🇬🇲",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -40030,6 +40102,7 @@
         "currency_name": "Tunisian dinar",
         "currency_symbol": "د.ت",
         "name_updated": "Tunisia",
+        "flag": "🇹🇳",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -40348,6 +40421,7 @@
         "currency_name": "Algerian dinar",
         "currency_symbol": "د.ج",
         "name_updated": "Algeria",
+        "flag": "🇩🇿",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -40790,6 +40864,7 @@
         "currency_name": "Jordanian dinar",
         "currency_symbol": "د.ا",
         "name_updated": "Jordan",
+        "flag": "🇯🇴",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -41060,6 +41135,7 @@
         "currency_name": "United Arab Emirates dirham",
         "currency_symbol": "د.إ",
         "name_updated": "United Arab Emirates",
+        "flag": "🇦🇪",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -41342,6 +41418,7 @@
         "currency_name": "Qatari riyal",
         "currency_symbol": "ر.ق",
         "name_updated": "Qatar",
+        "flag": "🇶🇦",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -41572,6 +41649,7 @@
         "currency_name": "Kuwaiti dinar",
         "currency_symbol": "د.ك",
         "name_updated": "Kuwait",
+        "flag": "🇰🇼",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -41802,6 +41880,7 @@
         "currency_name": "Iraqi dinar",
         "currency_symbol": "ع.د",
         "name_updated": "Iraq",
+        "flag": "🇮🇶",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -42116,6 +42195,7 @@
         "currency_name": "Omani rial",
         "currency_symbol": "ر.ع.",
         "name_updated": "Oman",
+        "flag": "🇴🇲",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -42504,6 +42584,7 @@
         "currency_name": "Vanuatu vatu",
         "currency_symbol": "Vt",
         "name_updated": "Vanuatu",
+        "flag": "🇻🇺",
         "continent_updated": "Oceania"
       },
       "bbox": [
@@ -42752,6 +42833,7 @@
         "currency_name": "Cambodian riel",
         "currency_symbol": "៛",
         "name_updated": "Cambodia",
+        "flag": "🇰🇭",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -43014,6 +43096,7 @@
         "currency_name": "Thai baht",
         "currency_symbol": "฿",
         "name_updated": "Thailand",
+        "flag": "🇹🇭",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -43464,6 +43547,7 @@
         "currency_name": "Lao kip",
         "currency_symbol": "₭",
         "name_updated": "Laos",
+        "flag": "🇱🇦",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -43806,6 +43890,7 @@
         "currency_name": "Burmese kyat",
         "currency_symbol": "Ks",
         "name_updated": "Myanmar",
+        "flag": "🇲🇲",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -44280,6 +44365,7 @@
         "currency_name": "Vietnamese đồng",
         "currency_symbol": "₫",
         "name_updated": "Vietnam",
+        "flag": "🇻🇳",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -44650,6 +44736,7 @@
         "currency_name": "North Korean won",
         "currency_symbol": "₩",
         "name_updated": "North Korea",
+        "flag": "🇰🇵",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -45042,6 +45129,7 @@
         "currency_name": "South Korean won",
         "currency_symbol": "₩",
         "name_updated": "South Korea",
+        "flag": "🇰🇷",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -45312,6 +45400,7 @@
         "currency_name": "Mongolian tögrög",
         "currency_symbol": "₮",
         "name_updated": "Mongolia",
+        "flag": "🇲🇳",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -45806,6 +45895,7 @@
         "currency_name": "Indian rupee",
         "currency_symbol": "₹",
         "name_updated": "India",
+        "flag": "🇮🇳",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -46544,6 +46634,7 @@
         "currency_name": "Bangladeshi taka",
         "currency_symbol": "৳",
         "name_updated": "Bangladesh",
+        "flag": "🇧🇩",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -46882,6 +46973,7 @@
         "currency_name": "Bhutanese ngultrum",
         "currency_symbol": "Nu.",
         "name_updated": "Bhutan",
+        "flag": "🇧🇹",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -47128,6 +47220,7 @@
         "currency_name": "Nepalese rupee",
         "currency_symbol": "₨",
         "name_updated": "Nepal",
+        "flag": "🇳🇵",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -47414,6 +47507,7 @@
         "currency_name": "Pakistani rupee",
         "currency_symbol": "₨",
         "name_updated": "Pakistan",
+        "flag": "🇵🇰",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -47872,6 +47966,7 @@
         "currency_name": "Afghan afghani",
         "currency_symbol": "؋",
         "name_updated": "Afghanistan",
+        "flag": "🇦🇫",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -48342,6 +48437,7 @@
         "currency_name": "Tajikistani somoni",
         "currency_symbol": "ЅМ",
         "name_updated": "Tajikistan",
+        "flag": "🇹🇯",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -48700,6 +48796,7 @@
         "currency_name": "Kyrgyzstani som",
         "currency_symbol": "с",
         "name_updated": "Kyrgyzstan",
+        "flag": "🇰🇬",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -49034,6 +49131,7 @@
         "currency_name": "Turkmenistan manat",
         "currency_symbol": "m",
         "name_updated": "Turkmenistan",
+        "flag": "🇹🇲",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -49444,6 +49542,7 @@
         "currency_name": "Iranian rial",
         "currency_symbol": "﷼",
         "name_updated": "Iran",
+        "flag": "🇮🇷",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -49942,6 +50041,7 @@
         "currency_name": "Syrian pound",
         "currency_symbol": "£",
         "name_updated": "Syria",
+        "flag": "🇸🇾",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -50244,6 +50344,7 @@
         "currency_name": "Armenian dram",
         "currency_symbol": "֏",
         "name_updated": "Armenia",
+        "flag": "🇦🇲",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -50518,6 +50619,7 @@
         "currency_name": "Swedish krona",
         "currency_symbol": "kr",
         "name_updated": "Sweden",
+        "flag": "🇸🇪",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -50872,6 +50974,7 @@
         "currency_name": "Belarusian ruble",
         "currency_symbol": "Br",
         "name_updated": "Belarus",
+        "flag": "🇧🇾",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -51246,6 +51349,7 @@
         "currency_name": "Ukrainian hryvnia",
         "currency_symbol": "₴",
         "name_updated": "Ukraine",
+        "flag": "🇺🇦",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -51812,6 +51916,7 @@
         "currency_name": "Polish złoty",
         "currency_symbol": "zł",
         "name_updated": "Poland",
+        "flag": "🇵🇱",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -52186,6 +52291,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Austria",
+        "flag": "🇦🇹",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -52528,6 +52634,7 @@
         "currency_name": "Hungarian forint",
         "currency_symbol": "Ft",
         "name_updated": "Hungary",
+        "flag": "🇭🇺",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -52850,6 +52957,7 @@
         "currency_name": "Moldovan leu",
         "currency_symbol": "L",
         "name_updated": "Moldova",
+        "flag": "🇲🇩",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -53152,6 +53260,7 @@
         "currency_name": "Romanian leu",
         "currency_symbol": "lei",
         "name_updated": "Romania",
+        "flag": "🇷🇴",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -53522,6 +53631,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Lithuania",
+        "flag": "🇱🇹",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -53792,6 +53902,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Latvia",
+        "flag": "🇱🇻",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -54074,6 +54185,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Estonia",
+        "flag": "🇪🇪",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -54344,6 +54456,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Germany",
+        "flag": "🇩🇪",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -54770,6 +54883,7 @@
         "currency_name": "Bulgarian lev",
         "currency_symbol": "лв",
         "name_updated": "Bulgaria",
+        "flag": "🇧🇬",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -55076,6 +55190,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Greece",
+        "flag": "🇬🇷",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -55956,6 +56071,7 @@
         "currency_name": "Albanian lek",
         "currency_symbol": "L",
         "name_updated": "Albania",
+        "flag": "🇦🇱",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -56246,6 +56362,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Croatia",
+        "flag": "🇭🇷",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -56612,6 +56729,7 @@
         "currency_name": "Swiss franc",
         "currency_symbol": "Fr.",
         "name_updated": "Switzerland",
+        "flag": "🇨🇭",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -56902,6 +57020,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Luxembourg",
+        "flag": "🇱🇺",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -57124,6 +57243,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Belgium",
+        "flag": "🇧🇪",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -57386,6 +57506,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Netherlands",
+        "flag": "🇳🇱",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -57640,6 +57761,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Portugal",
+        "flag": "🇵🇹",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -57966,6 +58088,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Spain",
+        "flag": "🇪🇸",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -58364,6 +58487,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Ireland",
+        "flag": "🇮🇪",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -58610,6 +58734,7 @@
         "currency_name": "CFP franc",
         "currency_symbol": "₣",
         "name_updated": "New Caledonia",
+        "flag": "🇳🇨",
         "continent_updated": "Oceania"
       },
       "bbox": [
@@ -59208,6 +59333,7 @@
         "currency_name": "New Zealand dollar",
         "currency_symbol": "$",
         "name_updated": "New Zealand",
+        "flag": "🇳🇿",
         "continent_updated": "Oceania"
       },
       "bbox": [
@@ -59672,6 +59798,7 @@
         "currency_name": "Australian dollar",
         "currency_symbol": "$",
         "name_updated": "Australia",
+        "flag": "🇦🇺",
         "continent_updated": "Oceania"
       },
       "bbox": [
@@ -60836,6 +60963,7 @@
         "currency_name": "Sri Lankan rupee",
         "currency_symbol": "Rs රු",
         "name_updated": "Sri Lanka",
+        "flag": "🇱🇰",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -61070,6 +61198,7 @@
         "currency_name": "Chinese yuan",
         "currency_symbol": "¥",
         "name_updated": "China",
+        "flag": "🇨🇳",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -62230,6 +62359,7 @@
         "currency_name": "New Taiwan dollar",
         "currency_symbol": "$",
         "name_updated": "Taiwan",
+        "flag": "🇹🇼",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -62460,6 +62590,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Italy",
+        "flag": "🇮🇹",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -63012,6 +63143,7 @@
         "currency_name": "Danish krone",
         "currency_symbol": "kr",
         "name_updated": "Denmark",
+        "flag": "🇩🇰",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -63308,6 +63440,7 @@
         "currency_name": "British pound",
         "currency_symbol": "£",
         "name_updated": "United Kingdom",
+        "flag": "🇬🇧",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -63732,6 +63865,7 @@
         "currency_name": "Icelandic króna",
         "currency_symbol": "kr",
         "name_updated": "Iceland",
+        "flag": "🇮🇸",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -64006,6 +64140,7 @@
         "currency_name": "Azerbaijani manat",
         "currency_symbol": "₼",
         "name_updated": "Azerbaijan",
+        "flag": "🇦🇿",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -64382,6 +64517,7 @@
         "currency_name": "lari",
         "currency_symbol": "₾",
         "name_updated": "Georgia",
+        "flag": "🇬🇪",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -64672,6 +64808,7 @@
         "currency_name": "Philippine peso",
         "currency_symbol": "₱",
         "name_updated": "Philippines",
+        "flag": "🇵🇭",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -65332,6 +65469,7 @@
         "currency_name": "Malaysian ringgit",
         "currency_symbol": "RM",
         "name_updated": "Malaysia",
+        "flag": "🇲🇾",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -65780,6 +65918,7 @@
         "currency_name": "Brunei dollar",
         "currency_symbol": "$",
         "name_updated": "Brunei",
+        "flag": "🇧🇳",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -66006,6 +66145,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Slovenia",
+        "flag": "🇸🇮",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -66272,6 +66412,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Finland",
+        "flag": "🇫🇮",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -66626,6 +66767,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Slovakia",
+        "flag": "🇸🇰",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -66952,6 +67094,7 @@
         "currency_name": "Czech koruna",
         "currency_symbol": "Kč",
         "name_updated": "Czechia",
+        "flag": "🇨🇿",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -67286,6 +67429,7 @@
         "currency_name": "Eritrean nakfa",
         "currency_symbol": "Nfk",
         "name_updated": "Eritrea",
+        "flag": "🇪🇷",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -67592,6 +67736,7 @@
         "currency_name": "Japanese yen",
         "currency_symbol": "¥",
         "name_updated": "Japan",
+        "flag": "🇯🇵",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -68056,6 +68201,7 @@
         "currency_name": "Paraguayan guaraní",
         "currency_symbol": "₲",
         "name_updated": "Paraguay",
+        "flag": "🇵🇾",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -68382,6 +68528,7 @@
         "currency_name": "Yemeni rial",
         "currency_symbol": "﷼",
         "name_updated": "Yemen",
+        "flag": "🇾🇪",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -68752,6 +68899,7 @@
         "currency_name": "Saudi riyal",
         "currency_symbol": "ر.س",
         "name_updated": "Saudi Arabia",
+        "flag": "🇸🇦",
         "continent_updated": "Asia"
       },
       "bbox": [
@@ -69246,6 +69394,7 @@
         "population_updated": null,
         "population_year": 2025,
         "name_updated": "Antarctica",
+        "flag": "🇦🇶",
         "continent_updated": "Antarctic"
       },
       "bbox": [
@@ -72364,6 +72513,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Cyprus",
+        "flag": "🇨🇾",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -72618,6 +72768,7 @@
         "currency_name": "Moroccan dirham",
         "currency_symbol": "د.م.",
         "name_updated": "Morocco",
+        "flag": "🇲🇦",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -73064,6 +73215,7 @@
         "currency_name": "Egyptian pound",
         "currency_symbol": "£",
         "name_updated": "Egypt",
+        "flag": "🇪🇬",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -73434,6 +73586,7 @@
         "currency_name": "Libyan dinar",
         "currency_symbol": "ل.د",
         "name_updated": "Libya",
+        "flag": "🇱🇾",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -73852,6 +74005,7 @@
         "currency_name": "Ethiopian birr",
         "currency_symbol": "Br",
         "name_updated": "Ethiopia",
+        "flag": "🇪🇹",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -74282,6 +74436,7 @@
         "currency_name": "Djiboutian franc",
         "currency_symbol": "Fr",
         "name_updated": "Djibouti",
+        "flag": "🇩🇯",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -74826,6 +74981,7 @@
         "currency_name": "Ugandan shilling",
         "currency_symbol": "Sh",
         "name_updated": "Uganda",
+        "flag": "🇺🇬",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -75132,6 +75288,7 @@
         "currency_name": "Rwandan franc",
         "currency_symbol": "Fr",
         "name_updated": "Rwanda",
+        "flag": "🇷🇼",
         "continent_updated": "Africa"
       },
       "bbox": [
@@ -75660,6 +75817,7 @@
         "currency_name": "denar",
         "currency_symbol": "den",
         "name_updated": "North Macedonia",
+        "flag": "🇲🇰",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -75926,6 +76084,7 @@
         "currency_name": "Serbian dinar",
         "currency_symbol": "дин.",
         "name_updated": "Serbia",
+        "flag": "🇷🇸",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -76312,6 +76471,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Montenegro",
+        "flag": "🇲🇪",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -76578,6 +76738,7 @@
         "currency_name": "Euro",
         "currency_symbol": "€",
         "name_updated": "Kosovo",
+        "flag": "🇽🇰",
         "continent_updated": "Europe"
       },
       "bbox": [
@@ -76856,6 +77017,7 @@
         "currency_name": "Trinidad and Tobago dollar",
         "currency_symbol": "$",
         "name_updated": "Trinidad and Tobago",
+        "flag": "🇹🇹",
         "continent_updated": "Americas"
       },
       "bbox": [
@@ -77350,7 +77512,7 @@
     83.64513
   ],
   "metadata": {
-    "last_updated": "2025-10-30T15:45:36.573773",
+    "last_updated": "2025-10-30T16:01:41.405189",
     "source_geojson": "Natural Earth",
     "source_data": "mledoze/countries",
     "countries_enriched": 162
