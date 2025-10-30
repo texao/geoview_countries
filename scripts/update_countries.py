@@ -3,12 +3,15 @@ import requests
 import json
 import os
 from datetime import datetime
-from unidecode import unidecode
+import unicodedata
 
 # URLs
 GEOJSON_URL = "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson"
 API_URL = "https://raw.githubusercontent.com/mledoze/countries/master/dist/countries.json"
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "countries.json")
+
+def normalize_name(name):
+    return unicodedata.normalize('NFKD', name).encode('ASCII', 'ignore').decode('ASCII').lower()
 
 def main():
     print("🔄 Téléchargement Natural Earth GeoJSON...")
@@ -26,19 +29,19 @@ def main():
 
     enriched = 0
     print("🔄 Enrichissement des données...")
-
     for feature in geojson['features']:
         props = feature['properties']
         iso_code = (props.get('iso_a3') or props.get('adm0_a3') or '').upper()
         api_country = api_dict.get(iso_code)
 
+
         # fallback sur le nom si pas de code ISO correspondant
         if not api_country:
             name = props.get('NAME') or props.get('ADMIN') or ''
-            name_norm = unidecode(name).lower()  # supprimer accents
+            name_norm = normalize_name(name)
             for c in countries_api:
-                common_name = unidecode(c.get('name', {}).get('common', '')).lower()
-                official_name = unidecode(c.get('name', {}).get('official', '')).lower()
+                common_name = normalize_name(c.get('name', {}).get('common', ''))
+                official_name = normalize_name(c.get('name', {}).get('official', ''))
                 if name_norm in [common_name, official_name]:
                     api_country = c
                     break
