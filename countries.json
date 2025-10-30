@@ -76058,9 +76058,9 @@
     83.64513
   ],
   "metadata": {
-    "last_updated": "2025-10-30T13:48:49.621836",
+    "last_updated": "2025-10-30T15:07:31.079485",
     "source_geojson": "Natural Earth",
-    "source_data": "REST Countries API",
+    "source_data": "mledoze/countries",
     "countries_enriched": 0
   }
 }
