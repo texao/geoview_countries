@@ -8,7 +8,7 @@ from datetime import datetime
 GEOJSON_URL = "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson"
 
 # REST Countries pour données à jour
-API_URL = "https://restcountries.com/v3.1/all"
+API_URL = "https://raw.githubusercontent.com/mledoze/countries/master/dist/countries.json"
 
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "countries.json")
 
