@@ -19,9 +19,10 @@ def main():
     geojson = geojson_response.json()
     
     print("🔄 Téléchargement REST Countries API...")
-    api_response = requests.get(API_URL)
+    api_response = requests.get(API_URL, headers={"User-Agent": "Mozilla/5.0 (compatible; GeoViewBot/1.0)"})
     api_response.raise_for_status()
     countries_api = api_response.json()
+
     
     # Créer un dictionnaire pour accès rapide par code ISO
     api_dict = {c.get('cca3'): c for c in countries_api if c.get('cca3')}
