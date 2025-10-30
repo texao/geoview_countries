@@ -31,7 +31,7 @@ def main():
     print("🔄 Enrichissement des données...")
     for feature in geojson['features']:
         props = feature['properties']
-        iso_code = (props.get('iso_a3') or props.get('adm0_a3') or '').upper()
+        iso_code = (props.get('ISO_A3') or props.get('ADM0_A3') or '').upper()
         api_country = api_dict.get(iso_code)
 
 
