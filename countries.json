@@ -4661,7 +4661,16 @@
         "FCLASS_NL": null,
         "FCLASS_SE": null,
         "FCLASS_BD": null,
-        "FCLASS_UA": null
+        "FCLASS_UA": null,
+        "population_updated": null,
+        "population_year": 2025,
+        "capital": "Washington D.C.",
+        "languages": "English",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "name_updated": "United States",
+        "flag": "🇺🇸",
+        "continent_updated": "Americas"
       },
       "bbox": [
         -171.791111,
@@ -77512,9 +77521,9 @@
     83.64513
   ],
   "metadata": {
-    "last_updated": "2025-10-30T16:01:41.405189",
+    "last_updated": "2025-10-30T16:27:04.747557",
     "source_geojson": "Natural Earth",
     "source_data": "mledoze/countries",
-    "countries_enriched": 162
+    "countries_enriched": 163
   }
 }
