@@ -78,6 +78,15 @@ def main():
         props['flag'] = api_country.get('flag', '')  # emoji du drapeau
         props['continent_updated'] = api_country.get('region', props.get('REGION_UN'))
 
+        # Superficie
+        props['area'] = api_country.get('area')
+
+        # Membre de l'ONU
+        props['unMember'] = api_country.get('unMember', False)
+        
+        # Statut officiel
+        props['status'] = api_country.get('status', 'N/A')
+
         enriched += 1
 
     # Ajouter métadonnées
