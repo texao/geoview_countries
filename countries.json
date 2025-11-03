@@ -189,8 +189,7 @@
         "flag": "🇫🇯",
         "continent_updated": "Oceania",
         "area": 18272,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -180,
@@ -485,8 +484,7 @@
         "flag": "🇹🇿",
         "continent_updated": "Africa",
         "area": 945087,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         29.339998,
@@ -891,8 +889,7 @@
         "flag": "🇪🇭",
         "continent_updated": "Africa",
         "area": 266000,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         -17.063423,
@@ -1201,8 +1198,7 @@
         "flag": "🇨🇦",
         "continent_updated": "Americas",
         "area": 9984670,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -140.99778,
@@ -4693,8 +4689,7 @@
         "flag": "🇺🇸",
         "continent_updated": "Americas",
         "area": 9372610,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -171.791111,
@@ -6717,8 +6712,7 @@
         "flag": "🇰🇿",
         "continent_updated": "Asia",
         "area": 2724900,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         46.466446,
@@ -7363,8 +7357,7 @@
         "flag": "🇺🇿",
         "continent_updated": "Asia",
         "area": 447400,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         55.928917,
@@ -7777,8 +7770,7 @@
         "flag": "🇵🇬",
         "continent_updated": "Oceania",
         "area": 462840,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         141.00021,
@@ -8313,8 +8305,7 @@
         "flag": "🇮🇩",
         "continent_updated": "Asia",
         "area": 1904569,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         95.293026,
@@ -9561,8 +9552,7 @@
         "flag": "🇦🇷",
         "continent_updated": "Americas",
         "area": 2780400,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -73.415436,
@@ -10249,8 +10239,7 @@
         "flag": "🇨🇱",
         "continent_updated": "Americas",
         "area": 756102,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -75.644395,
@@ -10909,8 +10898,7 @@
         "flag": "🇨🇩",
         "continent_updated": "Africa",
         "area": 2344858,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         12.182337,
@@ -11603,8 +11591,7 @@
         "flag": "🇸🇴",
         "continent_updated": "Africa",
         "area": 637657,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         40.98105,
@@ -11949,8 +11936,7 @@
         "flag": "🇰🇪",
         "continent_updated": "Africa",
         "area": 580367,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         33.893569,
@@ -12295,8 +12281,7 @@
         "flag": "🇸🇩",
         "continent_updated": "Africa",
         "area": 1886068,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         21.93681,
@@ -12817,8 +12802,7 @@
         "flag": "🇹🇩",
         "continent_updated": "Africa",
         "area": 1284000,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         13.540394,
@@ -13247,8 +13231,7 @@
         "flag": "🇭🇹",
         "continent_updated": "Americas",
         "area": 27750,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -74.458034,
@@ -13529,8 +13512,7 @@
         "flag": "🇩🇴",
         "continent_updated": "Americas",
         "area": 48671,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -71.945112,
@@ -13831,8 +13813,7 @@
         "flag": "🇷🇺",
         "continent_updated": "Europe",
         "area": 17098242,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -180,
@@ -16583,8 +16564,7 @@
         "flag": "🇧🇸",
         "continent_updated": "Americas",
         "area": 13943,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -78.98,
@@ -16875,8 +16855,7 @@
         "flag": "🇫🇰",
         "continent_updated": "Americas",
         "area": 12173,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         -61.2,
@@ -17113,8 +17092,7 @@
         "flag": "🇳🇴",
         "continent_updated": "Europe",
         "area": 323802,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         4.992078,
@@ -17677,8 +17655,7 @@
         "flag": "🇬🇱",
         "continent_updated": "Americas",
         "area": 2166086,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         -73.297,
@@ -18403,8 +18380,7 @@
         "flag": "🇹🇫",
         "continent_updated": "Antarctic",
         "area": 7747,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         68.72,
@@ -18637,8 +18613,7 @@
         "flag": "🇹🇱",
         "continent_updated": "Asia",
         "area": 14874,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         124.968682,
@@ -18879,8 +18854,7 @@
         "flag": "🇿🇦",
         "continent_updated": "Africa",
         "area": 1221037,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         16.344977,
@@ -19455,8 +19429,7 @@
         "flag": "🇱🇸",
         "continent_updated": "Africa",
         "area": 30355,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         26.999262,
@@ -19701,8 +19674,7 @@
         "flag": "🇲🇽",
         "continent_updated": "Americas",
         "area": 1964375,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -117.12776,
@@ -20579,8 +20551,7 @@
         "flag": "🇺🇾",
         "continent_updated": "Americas",
         "area": 181034,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -58.427074,
@@ -20861,8 +20832,7 @@
         "flag": "🇧🇷",
         "continent_updated": "Americas",
         "area": 8515767,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -73.987235,
@@ -21871,8 +21841,7 @@
         "flag": "🇧🇴",
         "continent_updated": "Americas",
         "area": 1098581,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -69.590424,
@@ -22309,8 +22278,7 @@
         "flag": "🇵🇪",
         "continent_updated": "Americas",
         "area": 1285216,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -81.410943,
@@ -22811,8 +22779,7 @@
         "flag": "🇨🇴",
         "continent_updated": "Americas",
         "area": 1141748,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -78.990935,
@@ -23409,8 +23376,7 @@
         "flag": "🇵🇦",
         "continent_updated": "Americas",
         "area": 75417,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -82.965783,
@@ -23815,8 +23781,7 @@
         "flag": "🇨🇷",
         "continent_updated": "Americas",
         "area": 51100,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -85.941725,
@@ -24157,8 +24122,7 @@
         "flag": "🇳🇮",
         "continent_updated": "Americas",
         "area": 130373,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -87.668493,
@@ -24563,8 +24527,7 @@
         "flag": "🇭🇳",
         "continent_updated": "Americas",
         "area": 112492,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -89.353326,
@@ -24989,8 +24952,7 @@
         "flag": "🇸🇻",
         "continent_updated": "Americas",
         "area": 21041,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -90.095555,
@@ -25267,8 +25229,7 @@
         "flag": "🇬🇹",
         "continent_updated": "Americas",
         "area": 108889,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -92.229249,
@@ -25605,8 +25566,7 @@
         "flag": "🇧🇿",
         "continent_updated": "Americas",
         "area": 22966,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -89.229122,
@@ -25883,8 +25843,7 @@
         "flag": "🇻🇪",
         "continent_updated": "Americas",
         "area": 916445,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -73.304952,
@@ -26449,8 +26408,7 @@
         "flag": "🇬🇾",
         "continent_updated": "Americas",
         "area": 214969,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -61.410303,
@@ -26807,8 +26765,7 @@
         "flag": "🇸🇷",
         "continent_updated": "Americas",
         "area": 163820,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -58.044694,
@@ -27109,8 +27066,7 @@
         "flag": "🇫🇷",
         "continent_updated": "Europe",
         "area": 551695,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -54.524754,
@@ -27613,8 +27569,7 @@
         "flag": "🇪🇨",
         "continent_updated": "Americas",
         "area": 276841,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -80.967765,
@@ -27943,8 +27898,7 @@
         "flag": "🇵🇷",
         "continent_updated": "Americas",
         "area": 8870,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         -67.242428,
@@ -28177,8 +28131,7 @@
         "flag": "🇯🇲",
         "continent_updated": "Americas",
         "area": 10991,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -78.337719,
@@ -28419,8 +28372,7 @@
         "flag": "🇨🇺",
         "continent_updated": "Americas",
         "area": 109884,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -84.974911,
@@ -28785,8 +28737,7 @@
         "flag": "🇿🇼",
         "continent_updated": "Africa",
         "area": 390757,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         25.264226,
@@ -29131,8 +29082,7 @@
         "flag": "🇧🇼",
         "continent_updated": "Africa",
         "area": 582000,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         19.895458,
@@ -29489,8 +29439,7 @@
         "flag": "🇳🇦",
         "continent_updated": "Africa",
         "area": 825615,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         11.734199,
@@ -29863,8 +29812,7 @@
         "flag": "🇸🇳",
         "continent_updated": "Africa",
         "area": 196722,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -17.625043,
@@ -30237,8 +30185,7 @@
         "flag": "🇲🇱",
         "continent_updated": "Africa",
         "area": 1240192,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -12.17075,
@@ -30739,8 +30686,7 @@
         "flag": "🇲🇷",
         "continent_updated": "Africa",
         "area": 1030700,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -17.063423,
@@ -31093,8 +31039,7 @@
         "flag": "🇧🇯",
         "continent_updated": "Africa",
         "area": 112622,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         0.772336,
@@ -31391,8 +31336,7 @@
         "flag": "🇳🇪",
         "continent_updated": "Africa",
         "area": 1267000,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         0.295646,
@@ -31821,8 +31765,7 @@
         "flag": "🇳🇬",
         "continent_updated": "Africa",
         "area": 923768,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         2.691702,
@@ -32251,8 +32194,7 @@
         "flag": "🇨🇲",
         "continent_updated": "Africa",
         "area": 475442,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         8.488816,
@@ -32693,8 +32635,7 @@
         "flag": "🇹🇬",
         "continent_updated": "Africa",
         "area": 56785,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -0.049785,
@@ -32967,8 +32908,7 @@
         "flag": "🇬🇭",
         "continent_updated": "Africa",
         "area": 238533,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -3.24437,
@@ -33265,8 +33205,7 @@
         "flag": "🇨🇮",
         "continent_updated": "Africa",
         "area": 322463,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -8.60288,
@@ -33647,8 +33586,7 @@
         "flag": "🇬🇳",
         "continent_updated": "Africa",
         "area": 245857,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -15.130311,
@@ -34125,8 +34063,7 @@
         "flag": "🇬🇼",
         "continent_updated": "Africa",
         "area": 36125,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -16.677452,
@@ -34399,8 +34336,7 @@
         "flag": "🇱🇷",
         "continent_updated": "Africa",
         "area": 111369,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -11.438779,
@@ -34705,8 +34641,7 @@
         "flag": "🇸🇱",
         "continent_updated": "Africa",
         "area": 71740,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -13.24655,
@@ -34991,8 +34926,7 @@
         "flag": "🇧🇫",
         "continent_updated": "Africa",
         "area": 272967,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -5.470565,
@@ -35345,8 +35279,7 @@
         "flag": "🇨🇫",
         "continent_updated": "Africa",
         "area": 622984,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         14.459407,
@@ -35791,8 +35724,7 @@
         "flag": "🇨🇬",
         "continent_updated": "Africa",
         "area": 342000,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         11.093773,
@@ -36185,8 +36117,7 @@
         "flag": "🇬🇦",
         "continent_updated": "Africa",
         "area": 267668,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         8.797996,
@@ -36507,8 +36438,7 @@
         "flag": "🇬🇶",
         "continent_updated": "Africa",
         "area": 28051,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         9.305613,
@@ -36733,8 +36663,7 @@
         "flag": "🇿🇲",
         "continent_updated": "Africa",
         "area": 752612,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         21.887843,
@@ -37175,8 +37104,7 @@
         "flag": "🇲🇼",
         "continent_updated": "Africa",
         "area": 118484,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         32.688165,
@@ -37485,8 +37413,7 @@
         "flag": "🇲🇿",
         "continent_updated": "Africa",
         "area": 801590,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         30.179481,
@@ -37999,8 +37926,7 @@
         "flag": "🇸🇿",
         "continent_updated": "Africa",
         "area": 17364,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         30.676609,
@@ -38241,8 +38167,7 @@
         "flag": "🇦🇴",
         "continent_updated": "Africa",
         "area": 1246700,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         11.640096,
@@ -38745,8 +38670,7 @@
         "flag": "🇧🇮",
         "continent_updated": "Africa",
         "area": 27834,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         29.024926,
@@ -38995,8 +38919,7 @@
         "flag": "🇮🇱",
         "continent_updated": "Asia",
         "area": 20770,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         34.265433,
@@ -39297,8 +39220,7 @@
         "flag": "🇱🇧",
         "continent_updated": "Asia",
         "area": 10452,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         35.126053,
@@ -39539,8 +39461,7 @@
         "flag": "🇲🇬",
         "continent_updated": "Africa",
         "area": 587041,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         43.254187,
@@ -39933,8 +39854,7 @@
         "flag": "🇵🇸",
         "continent_updated": "Asia",
         "area": 6220,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         34.927408,
@@ -40167,8 +40087,7 @@
         "flag": "🇬🇲",
         "continent_updated": "Africa",
         "area": 10689,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -16.841525,
@@ -40429,8 +40348,7 @@
         "flag": "🇹🇳",
         "continent_updated": "Africa",
         "area": 163610,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         7.524482,
@@ -40751,8 +40669,7 @@
         "flag": "🇩🇿",
         "continent_updated": "Africa",
         "area": 2381741,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -8.6844,
@@ -41197,8 +41114,7 @@
         "flag": "🇯🇴",
         "continent_updated": "Asia",
         "area": 89342,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         34.922603,
@@ -41471,8 +41387,7 @@
         "flag": "🇦🇪",
         "continent_updated": "Asia",
         "area": 83600,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         51.579519,
@@ -41757,8 +41672,7 @@
         "flag": "🇶🇦",
         "continent_updated": "Asia",
         "area": 11586,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         50.743911,
@@ -41991,8 +41905,7 @@
         "flag": "🇰🇼",
         "continent_updated": "Asia",
         "area": 17818,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         46.568713,
@@ -42225,8 +42138,7 @@
         "flag": "🇮🇶",
         "continent_updated": "Asia",
         "area": 438317,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         38.792341,
@@ -42543,8 +42455,7 @@
         "flag": "🇴🇲",
         "continent_updated": "Asia",
         "area": 309500,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         52.00001,
@@ -42935,8 +42846,7 @@
         "flag": "🇻🇺",
         "continent_updated": "Oceania",
         "area": 12189,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         166.629137,
@@ -43187,8 +43097,7 @@
         "flag": "🇰🇭",
         "continent_updated": "Asia",
         "area": 181035,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         102.348099,
@@ -43453,8 +43362,7 @@
         "flag": "🇹🇭",
         "continent_updated": "Asia",
         "area": 513120,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         97.375896,
@@ -43907,8 +43815,7 @@
         "flag": "🇱🇦",
         "continent_updated": "Asia",
         "area": 236800,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         100.115988,
@@ -44253,8 +44160,7 @@
         "flag": "🇲🇲",
         "continent_updated": "Asia",
         "area": 676578,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         92.303234,
@@ -44731,8 +44637,7 @@
         "flag": "🇻🇳",
         "continent_updated": "Asia",
         "area": 331212,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         102.170436,
@@ -45105,8 +45010,7 @@
         "flag": "🇰🇵",
         "continent_updated": "Asia",
         "area": 120538,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         124.265625,
@@ -45501,8 +45405,7 @@
         "flag": "🇰🇷",
         "continent_updated": "Asia",
         "area": 100210,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         126.117398,
@@ -45775,8 +45678,7 @@
         "flag": "🇲🇳",
         "continent_updated": "Asia",
         "area": 1564110,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         87.751264,
@@ -46273,8 +46175,7 @@
         "flag": "🇮🇳",
         "continent_updated": "Asia",
         "area": 3287590,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         68.176645,
@@ -47015,8 +46916,7 @@
         "flag": "🇧🇩",
         "continent_updated": "Asia",
         "area": 147570,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         88.084422,
@@ -47357,8 +47257,7 @@
         "flag": "🇧🇹",
         "continent_updated": "Asia",
         "area": 38394,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         88.814248,
@@ -47607,8 +47506,7 @@
         "flag": "🇳🇵",
         "continent_updated": "Asia",
         "area": 147181,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         80.088425,
@@ -47897,8 +47795,7 @@
         "flag": "🇵🇰",
         "continent_updated": "Asia",
         "area": 881912,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         60.874248,
@@ -48359,8 +48256,7 @@
         "flag": "🇦🇫",
         "continent_updated": "Asia",
         "area": 652230,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         60.52843,
@@ -48833,8 +48729,7 @@
         "flag": "🇹🇯",
         "continent_updated": "Asia",
         "area": 143100,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         67.44222,
@@ -49195,8 +49090,7 @@
         "flag": "🇰🇬",
         "continent_updated": "Asia",
         "area": 199951,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         69.464887,
@@ -49533,8 +49427,7 @@
         "flag": "🇹🇲",
         "continent_updated": "Asia",
         "area": 488100,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         52.50246,
@@ -49947,8 +49840,7 @@
         "flag": "🇮🇷",
         "continent_updated": "Asia",
         "area": 1648195,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         44.109225,
@@ -50449,8 +50341,7 @@
         "flag": "🇸🇾",
         "continent_updated": "Asia",
         "area": 185180,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         35.700798,
@@ -50755,8 +50646,7 @@
         "flag": "🇦🇲",
         "continent_updated": "Asia",
         "area": 29743,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         43.582746,
@@ -51033,8 +50923,7 @@
         "flag": "🇸🇪",
         "continent_updated": "Europe",
         "area": 450295,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         11.027369,
@@ -51391,8 +51280,7 @@
         "flag": "🇧🇾",
         "continent_updated": "Europe",
         "area": 207600,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         23.199494,
@@ -51769,8 +51657,7 @@
         "flag": "🇺🇦",
         "continent_updated": "Europe",
         "area": 603500,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         22.085608,
@@ -52339,8 +52226,7 @@
         "flag": "🇵🇱",
         "continent_updated": "Europe",
         "area": 312679,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         14.074521,
@@ -52717,8 +52603,7 @@
         "flag": "🇦🇹",
         "continent_updated": "Europe",
         "area": 83871,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         9.47997,
@@ -53063,8 +52948,7 @@
         "flag": "🇭🇺",
         "continent_updated": "Europe",
         "area": 93028,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         16.202298,
@@ -53389,8 +53273,7 @@
         "flag": "🇲🇩",
         "continent_updated": "Europe",
         "area": 33846,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         26.619337,
@@ -53695,8 +53578,7 @@
         "flag": "🇷🇴",
         "continent_updated": "Europe",
         "area": 238391,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         20.220192,
@@ -54069,8 +53951,7 @@
         "flag": "🇱🇹",
         "continent_updated": "Europe",
         "area": 65300,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         21.0558,
@@ -54343,8 +54224,7 @@
         "flag": "🇱🇻",
         "continent_updated": "Europe",
         "area": 64559,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         21.0558,
@@ -54629,8 +54509,7 @@
         "flag": "🇪🇪",
         "continent_updated": "Europe",
         "area": 45227,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         23.339795,
@@ -54903,8 +54782,7 @@
         "flag": "🇩🇪",
         "continent_updated": "Europe",
         "area": 357114,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         5.988658,
@@ -55333,8 +55211,7 @@
         "flag": "🇧🇬",
         "continent_updated": "Europe",
         "area": 110879,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         22.380526,
@@ -55643,8 +55520,7 @@
         "flag": "🇬🇷",
         "continent_updated": "Europe",
         "area": 131990,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         20.150016,
@@ -56063,8 +55939,7 @@
         "flag": "🇹🇷",
         "continent_updated": "Asia",
         "area": 783562,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         26.043351,
@@ -56539,8 +56414,7 @@
         "flag": "🇦🇱",
         "continent_updated": "Europe",
         "area": 28748,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         19.304486,
@@ -56833,8 +56707,7 @@
         "flag": "🇭🇷",
         "continent_updated": "Europe",
         "area": 56594,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         13.656976,
@@ -57203,8 +57076,7 @@
         "flag": "🇨🇭",
         "continent_updated": "Europe",
         "area": 41284,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         6.022609,
@@ -57497,8 +57369,7 @@
         "flag": "🇱🇺",
         "continent_updated": "Europe",
         "area": 2586,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         5.674052,
@@ -57723,8 +57594,7 @@
         "flag": "🇧🇪",
         "continent_updated": "Europe",
         "area": 30528,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         2.513573,
@@ -57989,8 +57859,7 @@
         "flag": "🇳🇱",
         "continent_updated": "Europe",
         "area": 41850,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         3.314971,
@@ -58247,8 +58116,7 @@
         "flag": "🇵🇹",
         "continent_updated": "Europe",
         "area": 92090,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -9.526571,
@@ -58577,8 +58445,7 @@
         "flag": "🇪🇸",
         "continent_updated": "Europe",
         "area": 505992,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -9.392884,
@@ -58979,8 +58846,7 @@
         "flag": "🇮🇪",
         "continent_updated": "Europe",
         "area": 70273,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -9.977086,
@@ -59229,8 +59095,7 @@
         "flag": "🇳🇨",
         "continent_updated": "Oceania",
         "area": 18575,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         164.029606,
@@ -59479,8 +59344,7 @@
         "flag": "🇸🇧",
         "continent_updated": "Oceania",
         "area": 28896,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         156.491358,
@@ -59843,8 +59707,7 @@
         "flag": "🇳🇿",
         "continent_updated": "Oceania",
         "area": 270467,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         166.509144,
@@ -60311,8 +60174,7 @@
         "flag": "🇦🇺",
         "continent_updated": "Oceania",
         "area": 7692024,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         113.338953,
@@ -61479,8 +61341,7 @@
         "flag": "🇱🇰",
         "continent_updated": "Asia",
         "area": 65610,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         79.695167,
@@ -61717,8 +61578,7 @@
         "flag": "🇨🇳",
         "continent_updated": "Asia",
         "area": 9706961,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         73.675379,
@@ -62881,8 +62741,7 @@
         "flag": "🇹🇼",
         "continent_updated": "Asia",
         "area": 36193,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         120.106189,
@@ -63115,8 +62974,7 @@
         "flag": "🇮🇹",
         "continent_updated": "Europe",
         "area": 301336,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         6.749955,
@@ -63671,8 +63529,7 @@
         "flag": "🇩🇰",
         "continent_updated": "Europe",
         "area": 43094,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         8.089977,
@@ -63971,8 +63828,7 @@
         "flag": "🇬🇧",
         "continent_updated": "Europe",
         "area": 242900,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -7.572168,
@@ -64399,8 +64255,7 @@
         "flag": "🇮🇸",
         "continent_updated": "Europe",
         "area": 103000,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -24.326184,
@@ -64677,8 +64532,7 @@
         "flag": "🇦🇿",
         "continent_updated": "Asia",
         "area": 86600,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         44.79399,
@@ -65057,8 +64911,7 @@
         "flag": "🇬🇪",
         "continent_updated": "Asia",
         "area": 69700,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         39.955009,
@@ -65351,8 +65204,7 @@
         "flag": "🇵🇭",
         "continent_updated": "Asia",
         "area": 342353,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         117.174275,
@@ -66015,8 +65867,7 @@
         "flag": "🇲🇾",
         "continent_updated": "Asia",
         "area": 330803,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         100.085757,
@@ -66467,8 +66318,7 @@
         "flag": "🇧🇳",
         "continent_updated": "Asia",
         "area": 5765,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         114.204017,
@@ -66697,8 +66547,7 @@
         "flag": "🇸🇮",
         "continent_updated": "Europe",
         "area": 20273,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         13.69811,
@@ -66967,8 +66816,7 @@
         "flag": "🇫🇮",
         "continent_updated": "Europe",
         "area": 338424,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         20.645593,
@@ -67325,8 +67173,7 @@
         "flag": "🇸🇰",
         "continent_updated": "Europe",
         "area": 49037,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         16.879983,
@@ -67655,8 +67502,7 @@
         "flag": "🇨🇿",
         "continent_updated": "Europe",
         "area": 78865,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         12.240111,
@@ -67993,8 +67839,7 @@
         "flag": "🇪🇷",
         "continent_updated": "Africa",
         "area": 117600,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         36.32322,
@@ -68303,8 +68148,7 @@
         "flag": "🇯🇵",
         "continent_updated": "Asia",
         "area": 377930,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         129.408463,
@@ -68771,8 +68615,7 @@
         "flag": "🇵🇾",
         "continent_updated": "Americas",
         "area": 406752,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -62.685057,
@@ -69101,8 +68944,7 @@
         "flag": "🇾🇪",
         "continent_updated": "Asia",
         "area": 527968,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         42.604873,
@@ -69475,8 +69317,7 @@
         "flag": "🇸🇦",
         "continent_updated": "Asia",
         "area": 2149690,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         34.632336,
@@ -69973,8 +69814,7 @@
         "flag": "🇦🇶",
         "continent_updated": "Antarctic",
         "area": 14000000,
-        "unMember": false,
-        "status": "officially-assigned"
+        "unMember": false
       },
       "bbox": [
         -180,
@@ -73095,8 +72935,7 @@
         "flag": "🇨🇾",
         "continent_updated": "Europe",
         "area": 9251,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         32.256667,
@@ -73353,8 +73192,7 @@
         "flag": "🇲🇦",
         "continent_updated": "Africa",
         "area": 446550,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -17.020428,
@@ -73803,8 +73641,7 @@
         "flag": "🇪🇬",
         "continent_updated": "Africa",
         "area": 1002450,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         24.70007,
@@ -74177,8 +74014,7 @@
         "flag": "🇱🇾",
         "continent_updated": "Africa",
         "area": 1759540,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         9.319411,
@@ -74599,8 +74435,7 @@
         "flag": "🇪🇹",
         "continent_updated": "Africa",
         "area": 1104300,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         32.95418,
@@ -75033,8 +74868,7 @@
         "flag": "🇩🇯",
         "continent_updated": "Africa",
         "area": 23200,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         41.66176,
@@ -75581,8 +75415,7 @@
         "flag": "🇺🇬",
         "continent_updated": "Africa",
         "area": 241550,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         29.579466,
@@ -75891,8 +75724,7 @@
         "flag": "🇷🇼",
         "continent_updated": "Africa",
         "area": 26338,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         29.024926,
@@ -76145,8 +75977,7 @@
         "flag": "🇧🇦",
         "continent_updated": "Europe",
         "area": 51209,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         15.750026,
@@ -76435,8 +76266,7 @@
         "flag": "🇲🇰",
         "continent_updated": "Europe",
         "area": 25713,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         20.463175,
@@ -76705,8 +76535,7 @@
         "flag": "🇷🇸",
         "continent_updated": "Europe",
         "area": 88361,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         18.829825,
@@ -77095,8 +76924,7 @@
         "flag": "🇲🇪",
         "continent_updated": "Europe",
         "area": 13812,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         18.450017,
@@ -77365,8 +77193,7 @@
         "flag": "🇽🇰",
         "continent_updated": "Europe",
         "area": 10908,
-        "unMember": false,
-        "status": "user-assigned"
+        "unMember": false
       },
       "bbox": [
         20.0707,
@@ -77647,8 +77474,7 @@
         "flag": "🇹🇹",
         "continent_updated": "Americas",
         "area": 5130,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         -61.95,
@@ -77877,8 +77703,7 @@
         "flag": "🇸🇸",
         "continent_updated": "Africa",
         "area": 619745,
-        "unMember": true,
-        "status": "officially-assigned"
+        "unMember": true
       },
       "bbox": [
         23.88698,
@@ -78154,7 +77979,7 @@
     83.64513
   ],
   "metadata": {
-    "last_updated": "2025-11-03T15:48:35.095458",
+    "last_updated": "2025-11-03T17:10:31.683900",
     "source_geojson": "Natural Earth",
     "source_data": "mledoze/countries",
     "countries_enriched": 175
