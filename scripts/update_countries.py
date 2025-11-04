@@ -50,12 +50,6 @@ def main():
         if not api_country:
             continue
 
-        # CODES ISO (POUR L'API WORLD BANK) 
-        # Code ISO A2 (2 lettres) - pour l'API World Bank
-        props['iso_a2'] = api_country.get('cca2', '')
-        # Code ISO A3 (3 lettres) - pour référence
-        props['iso_a3'] = api_country.get('cca3', '')
-
         # Population
         props['population_updated'] = api_country.get('population')
         props['population_year'] = datetime.now().year
